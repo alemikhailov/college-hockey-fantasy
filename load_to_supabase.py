@@ -352,7 +352,7 @@ def push(data, allow_new_teams=False):
     url, key = os.environ.get("SUPABASE_URL"), os.environ.get("SUPABASE_KEY")
     if not url or not key:
         print("ERROR: set SUPABASE_URL and SUPABASE_KEY first.")
-        return
+        raise SystemExit(1)          # fail loudly - a green tick must mean it worked
     client = create_client(url, key)
 
     # Existing teams first. Opening-night slates include EXHIBITIONS against
@@ -385,7 +385,7 @@ def push(data, allow_new_teams=False):
     print(f"teams known: {len(team_id)}")
     if not team_id:
         print("  ! no teams resolved - stopping before anything else empties out.")
-        return
+        raise SystemExit(1)
 
     player_rows = []
     for (nm, team), p in data["players"].items():

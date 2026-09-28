@@ -304,7 +304,7 @@ def main():
     url_, key = os.environ.get("SUPABASE_URL"), os.environ.get("SUPABASE_KEY")
     if not url_ or not key:
         print("\nERROR: set SUPABASE_URL and SUPABASE_KEY first.")
-        return
+        raise SystemExit(1)
     client = create_client(url_, key)
 
     db_teams = client.table("teams").select("team_id,name").execute().data
