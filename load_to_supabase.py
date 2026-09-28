@@ -66,6 +66,65 @@ GOALIE_FIELDS = {
 }
 
 # --------------------------------------------------------------------------
+# team name matching - the same folding the roster and schedule importers use.
+# The scoreboard qualifies some names ("Maryville (MO)", "Union (NY)") where
+# the boxscore feed that built your teams table does not, so exact matching
+# alone makes real D-I programs look unknown and silently drops their games.
+# --------------------------------------------------------------------------
+import re, unicodedata
+
+TEAM_ALIASES = {
+    "MASSACHUSETTS": "UMASS", "MASSLOWELL": "UMASSLOWELL",
+    "MASSACHUSETTSLOWELL": "UMASSLOWELL", "LOWELL": "UMASSLOWELL",
+    "CONNECTICUT": "UCONN", "NEBRASKAOMAHA": "OMAHA",
+    "MINNESOTADULUTH": "MINNDULUTH", "MIAMIOH": "MIAMI",
+    "ARMY": "ARMYWESTPOINT", "LONGISLAND": "LIU", "LIUBROOKLYN": "LIU",
+    "STTHOMASMN": "STTHOMAS", "RENSSELAER": "RPI",
+    "ALASANCHORAGE": "ALASKAANCHORAGE", "ANCHORAGE": "ALASKAANCHORAGE",
+    "ALASFAIRBANKS": "ALASKA", "ALASKAFAIRBANKS": "ALASKA", "FAIRBANKS": "ALASKA",
+}
+
+def norm_team(name):
+    s = unicodedata.normalize("NFKD", name or "")
+    s = "".join(c for c in s if not unicodedata.combining(c)).upper()
+    s = s.replace("&", " AND ")
+    s = re.sub(r"\bSAINT\b", "ST", s)
+    s = re.sub(r"\bSTATE\b", "ST", s)
+    s = re.sub(r"\bN\.?\s+(?=[A-Z])", "NORTHERN ", s)
+    s = re.sub(r"\bS\.?\s+(?=[A-Z])", "SOUTHERN ", s)
+    s = re.sub(r"\bE\.?\s+(?=[A-Z])", "EASTERN ", s)
+    s = re.sub(r"\bW\.?\s+(?=[A-Z])", "WESTERN ", s)
+    s = re.sub(r"\bMICH\b\.?", "MICHIGAN", s)
+    s = re.sub(r"\bMINN\b\.?", "MINNESOTA", s)
+    s = re.sub(r"\bCOLO\b\.?", "COLORADO", s)
+    s = re.sub(r"\bUNIVERSITY\b", "U", s)
+    s = re.sub(r"\bUNIV\b", "U", s)
+    s = re.sub(r"\bCOLLEGE\b", "C", s)
+    s = re.sub(r"\bCOLL\b", "C", s)
+    s = re.sub(r"\bOF\b", "", s)
+    s = re.sub(r"[^A-Z0-9]", "", s)
+    return TEAM_ALIASES.get(s, s)
+
+def build_team_index(db_teams):
+    idx, seen = {}, {}
+    for t in db_teams:
+        k = norm_team(t["name"])
+        if k in seen and seen[k] != t["name"]:
+            idx[k] = None                 # ambiguous - refuse rather than guess
+        else:
+            seen[k] = t["name"]; idx.setdefault(k, t)
+    return idx
+
+def match_team(name, idx):
+    key = norm_team(name)
+    if key in idx:
+        return idx[key]
+    hits = {k: v for k, v in idx.items()
+            if v is not None and (k.startswith(key) or key.startswith(k))}
+    return next(iter(hits.values())) if len(hits) == 1 else None
+
+
+# --------------------------------------------------------------------------
 # HTTP + cache
 # --------------------------------------------------------------------------
 def _cache_path(route):
@@ -347,7 +406,7 @@ def dedupe(rows, keys):
         seen.add(k); out.append(r)
     return out
 
-def push(data, allow_new_teams=False):
+def push(data, allow_new_teams=False, allow_unscheduled=False):
     from supabase import create_client
     url, key = os.environ.get("SUPABASE_URL"), os.environ.get("SUPABASE_KEY")
     if not url or not key:
@@ -360,9 +419,18 @@ def push(data, allow_new_teams=False):
     # alone, the loader would create those programs and every one of their
     # players, and they'd land in the draft pool as live, rosterable names.
     # So by default we only accept teams already in the database.
+    db_teams = client.table("teams").select("team_id,name").execute().data
+    idx = build_team_index(db_teams)
     team_id = {}
-    for row in client.table("teams").select("team_id,name").execute().data:
-        team_id[row["name"]] = row["team_id"]
+    for feed_name in sorted(data["teams"]):
+        if not feed_name:
+            continue
+        hit = match_team(feed_name, idx)
+        if hit:
+            team_id[feed_name] = hit["team_id"]
+    # every database team stays addressable under its own name too
+    for t in db_teams:
+        team_id.setdefault(t["name"], t["team_id"])
 
     unknown = sorted(t for t in data["teams"] if t and t not in team_id)
     if unknown:
@@ -417,7 +485,7 @@ def push(data, allow_new_teams=False):
         _s += 1000
 
     id_remap = {}
-    game_rows, skipped = [], 0
+    game_rows, skipped, unscheduled = [], 0, []
     for g in data["games"]:
         if (g["home"] and g["home"] not in team_id) or \
            (g["away"] and g["away"] not in team_id):
@@ -428,6 +496,19 @@ def push(data, allow_new_teams=False):
         # Exact date only. Teams routinely play back-to-back Friday/Saturday
         # series, so any day-of-slack here would merge the wrong two games.
         _pre = slot_id.get((g["game_date"], _h, _a))
+
+        # The published schedule decides what counts. The NCAA D-I scoreboard
+        # also carries EXHIBITIONS between two D-I teams (Merrimack at Sacred
+        # Heart, Boston College at Michigan State...), which College Hockey
+        # News deliberately leaves out. Those must not reach the database: they
+        # would pad the schedule column and, once played, score fantasy points
+        # for games that do not count. So a game with no scheduled row is left
+        # alone and reported. If it is a genuine reschedule, the weekly CHN
+        # refresh moves the row and the next run picks it up by itself.
+        if _pre is None and slot_id and not allow_unscheduled:
+            unscheduled.append((g["game_date"], g["away"], g["home"]))
+            continue
+
         if _pre and _pre != g["game_id"]:
             id_remap[g["game_id"]] = _pre
         game_rows.append({
@@ -442,6 +523,15 @@ def push(data, allow_new_teams=False):
     print(f"games: {len(game_rows)}" + (f"  ({skipped} skipped - unknown team)" if skipped else ""))
     if id_remap:
         print(f"  {len(id_remap)} matched to a pre-loaded scheduled game")
+    if unscheduled:
+        print(f"  {len(unscheduled)} not on the published schedule - left out:")
+        for d, a, h in unscheduled[:12]:
+            print(f"     {d}  {a} at {h}")
+        if len(unscheduled) > 12:
+            print(f"     ...and {len(unscheduled)-12} more")
+        print("   Exhibitions look exactly like this and should stay out. If one")
+        print("   is a real game that moved, it lands on the next run once the")
+        print("   schedule refresh catches up, or use --allow-unscheduled now.")
 
     def stat_rows(lines):
         out = []
@@ -533,8 +623,12 @@ if __name__ == "__main__":
     ap.add_argument("--selftest", action="store_true")
     ap.add_argument("--allow-new-teams", action="store_true",
                     help="create teams the feed mentions but your database lacks")
+    ap.add_argument("--allow-unscheduled", action="store_true",
+                    help="also load games that aren't on the published schedule "
+                         "(this lets EXHIBITIONS in - normally you don't want it)")
     a = ap.parse_args()
     if a.selftest:
         selftest()
     else:
-        push(collect(a.start, a.end), allow_new_teams=a.allow_new_teams)
+        push(collect(a.start, a.end), allow_new_teams=a.allow_new_teams,
+             allow_unscheduled=a.allow_unscheduled)
