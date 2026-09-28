@@ -1,0 +1,2104 @@
+# Air Force
+Defensemen
+19	Beard, Calvin	So	Southborough, Mass.
+20	Cunningham, Nolan	Sr	Great Falls, Mont.
+6	Houge, Simon	So	Woodbury, Minn.
+2	Janzig, Beau	Jr	Hermantown, Minn.
+22	Ludwig, Garin	Fr	Eagle River, Alaska
+3	Morque, Ren	Jr	Grand Rapids, Minn.
+25	Pavlowich, Carson	Fr	Proctor, Minn.
+7	Peterson, Jake	Jr	Rosemount, Minn.
+14	Reed, Gavin	Fr	Dayton, Minn.
+44	Staring, Will	Sr	Springfield, Va.
+Forwards
+11	Arneson, Brady	Fr	Red Wing, Minn.
+8	Christian, Cole	So	Duluth, Minn.
+92	DeNuccio, Grant	Fr	Leesburg, Va.
+4	DeVilliers, Francois	Fr	Irvine, Calif.
+15	Dubois, Owen	Sr	Madison, Wis.
+10	Genest, Oliver	So	Sanford, Maine
+13	Gentzler, Duke	Fr	Manhattan Beach, Calif.
+64	Gibbons, Brendan	Sr	South Kingstown, R.I.
+18	Kim, Christian	Fr	Torrance, Calif.
+16	Lipsett, Zander	Fr	Lexington, Ky.
+21	Nichol, Hayden	So	Rochester, N.Y.
+81	Panchisin, Charles	So	Lincolnshire, Ill.
+23	Sajevic, Nick	Jr	Shoreview, Minn.
+17	Searles, Harper	Fr	Blaine, Minn.
+27	Stitz, Sam	Jr	Perry Hall, Md.
+72	Willis, Aidan	So	Farmington, Minn.
+9	Yu, Anthony	Jr	Baldwin Park, Calif.
+Goaltenders
+35	Clafton, Carter	Sr	Grand Rapids, Minn.
+39	Krick, Dylan	So	West Chester, Pa.
+31	Solomon, Jack	Fr	St. Louis, Mo.
+30	Wasik, Dominik	Sr	Superior, Wisc.
+
+# Army
+Defensemen
+18	Bell, Jon	Sr	St. Cloud, Minn.
+23	Bosland, Alex	Fr	Basking Ridge, N.J.
+7	Chapman, Liam	So	Weare, N.H.
+16	Charron, Cam	Fr	Falmouth, Maine
+20	Holland, Max	Sr	San Francisco, Calif.
+2	McCloskey, Lukas	So	Newport Beach, Calif.
+34	Mertz, Noah	Fr	Coventry, R.I.
+6	Patterson, Pierce	Sr	Valrico, Fla.
+17	Quast, Thomas	Fr	Forest Lake, Minn.
+3	Zueger, Easton	Sr	Sioux Falls, S.D.
+Forwards
+24	Batten, Billy	So	Phoenixville, Pa.
+27	De St. Hubert, Cade	Fr	Hopkins, Minn.
+9	Forselius, Nils	Jr	Guilford, Conn.
+15	Gibbons, Sean	Fr	Southport, Conn.
+19	Hong, Nik	Sr	Minneapolis, Minn.
+4	Ivey, Ben	Jr	San Diego, Calif.
+5	Ivey, Jack	Jr	San Diego, Calif.
+26	Jalbert, Connor	Fr	Marblehead, Mass.
+11	Jones, Brock	So	Lake View, N.Y.
+28	Keefer, Brent	Sr	Colorado Springs, Colo.
+13	Ligi, Jacob	So	South Lyon, Mich.
+29	Marshall, Adam	Jr	Plymouth, Minn.
+22	Murphy, Kellen	Fr	Roseau, Minn.
+14	Neu, Thomas	Fr	Hartland, Mich.
+8	Salice, Vincent	Sr	Commerce Township, Mich.
+12	Wallin, Rhys	Fr	Wayzata, Minn.
+10	Wegner, Dylan	Jr	Nashville, Tenn.
+25	Woodring, Barron	Sr	Chicago, Ill.
+Goaltenders
+1	Biron, Jacob	Jr	East Aurora, N.Y.
+30	Cataldo, JJ	Jr	Stuart, Fla.
+31	Crudale, Owen	Fr	Poway, Calif.
+33	Holt, Gus	Sr	Bowling Green, Ohio
+
+# Bentley
+Defensemen
+24	Cameron, Colton	Sr	Surrey, B.C.
+21	Dalton, Jack	Sr	River Forest, Ill.
+0	Emmons, Charlie	Fr	Washington Township, Mich.
+28	Farrell, Jack	So	Wilmington, Mass.
+25	Horsager, Garrett	Sr	Rosemount, Minn.
+4	Larsen, Tobias	Jr	Oslo, Norway
+7	Leonard, Alec	So	Toronto, Ont.
+0	McNutt, Ephram	Fr	Yellowknife, NT
+13	Player, Josh	Jr	Thorofare, N.J.
+Forwards
+26	Amici, Kolby	Sr	Orchard Park, N.Y.
+15	Bakkevig, Oskar	Jr	Oslo, Norway
+5	Cook, Dylan	Jr	Princeton, Minn.
+22	Davis, Chase	Sr	Alpharetta, Ga.
+10	Doyle, Jimmy	Sr	Plainfield, Ill.
+20	Duerr, James	Jr	Chicago, Ill.
+20	Gaspar, Jan	So	Prague, Czech Republic
+18	Giuliani, Joshua	So	Plymouth, Minn.
+12	Goodbrand, Owen	So	Waterdown, Ont.
+16	Hjartarson, Kellan	Sr	Calgary, Alb.
+13	Kramer, Peter	Sr	Bridgewater, Mass.
+11	Mansfield, Ryan	Sr	Burlington, Ont.
+19	Mesic, Michael	Jr	Fort Myers, Fla.
+23	Nemes, Marton	So	Szekesfehervar, Hungary
+0	Sagadin, Jacob	Fr	Ljungby, Sweden
+8	Salo, Oliver	Jr	Kaarina, Finland
+0	Tess, Saxton	Fr	Chicago, Ill.
+Goaltenders
+29	Bevilacqua, Nicholas	Jr	Abington, Mass.
+0	Rye, Easton	Fr	Peterborough, Ont.
+60	Swedin, Lukas	So	Stockholm, Sweden
+
+# Canisius
+Defensemen
+26	Ballentyne, Trent	So	London, Ont.
+73	Buteau, FJ	So	Montreal, Que.
+12	Campbell, Matt	Sr	North Vancouver, B.C.
+47	Conn, Reid	So	Centennial, Colo.
+13	Gallucci, Jason	Jr	Robbinsville, N.J.
+53	Goffredo, Jimmy	Sr	Mount Laurel, N.J.
+44	Marshall, Luke	Jr	Saskatoon, Sask.
+23	Messina, Joe	Sr	Woodbridge, Ont.
+57	Patterson, Carter	Jr	Burlington, Ont.
+Forwards
+27	Anderson, Carter	So	Thompson, Man.
+92	Brunelle, Ben	Fr	Trois-Rivieres, Que.
+8	Chiddenton, Rhys	Sr	Campbellville, Ont.
+4	Cooke, Brice	So	Orangeville, Ont.
+94	Elmy, David	So	Mississauga, Ont.
+55	Fontaine, Louis-Philippe	So	Chambly, Que.
+5	Franks, Ryan	Fr	Roslyn, N.Y.
+14	Funk, Trey	Sr	Redwood Meadows, Alb.
+25	Gordon, Cole	Sr	Windsor, Colo.
+22	Grabas, Nico	Fr	Burnaby, B.C.
+72	Haldenby, Kyan	So	Toronto, Ont.
+77	Henneberry, Joey	So	Halifax, N.S.
+20	Homer, Zachary	Fr	Detroit, Mich.
+15	Miller, Cole	So	Edmonton, Alb.
+61	Price, Hunter	Jr	Calgary, Alb.
+88	Quinn, Noah	Sr	Nelson, B.C.
+91	Wolthers, Ethan	Gr	Valencia, Calif.
+9	Zacher, Walter	Sr	Buffalo, N.Y.
+Goaltenders
+1	Hay, Kolby	So	Kamloops, B.C.
+
+# Holy Cross
+Defensemen
+4	Biakabutuka, Anthony	So	Longueuil, Que.
+8	Buckley, Ryan	Jr	Warwick, R.I.
+23	D'Alessandro, Daniel	Fr	Essex Fells, N.J.
+13	Elias, William	Sr	Weston, Mass.
+3	Gagno, Brody	Sr	Langley, B.C.
+14	Johnston, Owain	So	Toronto, Ont.
+22	Martin, Jack	Fr	Upper Coverdale, N.B.
+37	McCall, Quinn	So	St. John, Ind.
+5	Troutwine, William	Sr	Eveleth, Minn.
+Forwards
+7	Carone, Anthony	So	Pittsburgh, Pa.
+34	Conway, Cooper	Fr	Andover, Minn.
+11	DellaSalla, Andrew	Fr	New York, N.Y.
+38	Eyre, Noah	Jr	Vienna, Va.
+27	Flaherty, Ryan	Fr	Milton, Mass.
+18	Gagno, Ty	Sr	Langley, B.C.
+10	Hymovitch, David	Jr	Phoenix, Ariz.
+21	Kim, Owen	Jr	North Vancouver, B.C.
+12	Kursonis, Matthew	Jr	Worcester, Mass.
+2	Lacroix, Andrew	So	Livingston, N.J.
+28	Larrigan, Jack	Jr	St. Louis, Mo.
+20	Lounsbury, Preston	Fr	Salisbury, N.B.
+6	Maro, Christian	Fr	Stamford, Conn.
+26	Reardon, William	So	Philadelphia, Pa.
+19	Riche, Ben	So	Bethune, Sask.
+17	Sampair, Boden	Fr	Mahtomedi, Minn.
+15	Smith, Jarrod	Jr	West Vancouver, B.C.
+29	Welsh, Connor	Sr	Greenwich, Conn.
+Goaltenders
+30	Leroux, Danick	So	Candiac, Que.
+33	MacKenzie, Connor	Sr	Toronto, Ont.
+32	Towle, Connor	Fr	Fairfield, Conn.
+
+# Niagara
+Defensemen
+8	Eke, Cameron	So	St. Catharines, Ont.
+4	Lemieux, Theo	Fr	Ste-Claire, Que.
+19	Mancini, Roberto	Jr	Vaughan, Ont.
+27	Murakami, Ray	Jr	Tomakomai, JPN
+9	Oickle, Nathan	Jr	Peterborough, Ont.
+7	Richards, James	Fr	Port Williams, N.S.
+12	Roloson, Ross	Jr	Woodbury, Minn.
+22	Van Mulligen, Josh	Fr	Medicine Hat, Alb.
+25	Young, Mitchell	Fr	Elmira, Ont.
+Forwards
+28	Codd, Davis	So	Brighton, Mich.
+2	Durocher, Alix	Fr	Drummondville, Que.
+14	Finnie, Marshall	So	Lethbridge, Alb.
+11	Gionta, Adam	Fr	Clarence Center, N.Y.
+34	Hackett, Noah	Gr	Ponoka, Alb.
+24	Humphrey, Ryan	So	Northville, Mich.
+17	Josefsson-Westling, Dante	Fr	Danderyd, Sweden
+26	Maillet, Jacob	Jr	Dundas, Ont.
+21	Melin, Dallon	Sr	Camrose, Alb.
+15	Muranov, Maxim	So	Moskva, Russia
+5	Prier, Camden	Fr	North Palm Beach, Fla.
+16	Reist, Andy	Jr	Waterloo, Ont.
+13	Richard, Jack	So	Stoney Creek, Ont.
+20	Rosensteel, Jack	Fr	Greensburg, Pa.
+10	Wallace, Hunter	Jr	Oak Lake, Man.
+18	Young, Spencer	Jr	Elmira, Ont.
+Goaltenders
+31	Anderson, Tomas	So	Stillwater, Minn.
+23	Boehm, Brayden	So	Nanaimo, B.C.
+29	Gravel, Charles-Edward	So	Levis, Que.
+1	Rolovs, Deivs	Jr	Riga, Latvia
+
+# RIT
+Defensemen
+17	Allen, Tristan	Jr	Kamloops, B.C.
+24	Croucher, Mason	Jr	Victoria, B.C.
+95	De Angelis, Nick	So	King City, Ont.
+2	Reinhart, Brock	So	Elora, Ont.
+20	Roger, Ben	Sr	Markham, Ont.
+0	Rogers, Braedyn	Fr	Belleville, Ont.
+18	Scott, Kevin	Sr	Ashburn, Va.
+27	Stewart, Crossley	Sr	Prince Rupert, B.C.
+3	Williams, Ryan	Jr	Pleasantville, Ohio
+Forwards
+19	Bajzer, Camden	So	Cleveland, Ohio
+23	Catalano, Christian	Sr	Mississauga, Ont.
+25	Christopoulos, Alex	Jr	Richmond Hill, Ont.
+21	Cobetto-Roy, Mathieu	Jr	Outremont, Que.
+0	Demiglio, Julian	Fr	Concord, Ont.
+11	Elfering, Caleb	So	Richland, Wash.
+0	Hebblethwaite, Alexander	Fr	Mississauga, Ont.
+26	Konyen, Evan	So	Newmarket, Ont.
+0	McAra, Jack	Fr	Burlington, Ont.
+22	Moore, William	So	Westfield, Ind.
+21	Peluso, Nicholas	So	Rochester, N.Y.
+0	Romeo, Lucas	Fr	Oakville, Ont.
+0	Shaw, Ryan	Fr	East Longmeadow, Mass.
+6	Skalos, Boris	Sr	Clifton, N.J.
+0	Wang, Matthew	Fr	London, Ont.
+16	Whyte, Ty	Jr	Richmond, Ont.
+8	Wigle, Zach	So	Oakville, Ont.
+29	Wilde, Matthew	Sr	Mississauga, Ont.
+Goaltenders
+0	Bowen, Zachary	Fr	Ottawa, Ont.
+1	Krbecek, Jakub	Jr	Praha, Czech Republic
+33	Mackenzie, Collin	So	Elora, Ont.
+
+# Robert Morris
+Defensemen
+10	Ashmead, J.R.	Jr	Calgary, Alb.
+7	Babcock, John	So	North Vancouver, B.C.
+3	Elliott, Dominic	Jr	Allendale, Mich.
+2	Ewles, Gavin	Fr	Barrie, Ont.
+6	Kinsman, Charlie	Jr	Orchard Park, N.Y.
+8	Lunn, Gabriel	Sr	Lockport, N.Y.
+5	van Why, Luke	Sr	Hatfield, Pa.
+22	VanDamme, Gunnar	Sr	Pittsford, N.Y.
+9	Wattvil, Max	Sr	Stockholm, Sweden
+Forwards
+14	Beaumont, Julian	So	Allen, Texas
+11	Beljo, Dario	Sr	Sudbury, Ont.
+24	Crombie, Calvin	Fr	Hamilton, Ont.
+28	Faulkner, Brennan	Fr	London, Ont.
+29	Felsing, Michael	Jr	Pittsburgh, Pa.
+15	Gourley, Connor	Jr	Calgary, Alb.
+20	Hayes, McKay	Sr	Ancaster, Ont.
+25	Hubbard, Stanley	Fr	Albuquerque, N.M.
+17	Johnson, Patrick	Jr	Chesterfield, Mo.
+16	Krotiris, George	Sr	Markham, Ont.
+19	MacPherson, Ryan	Jr	Windsor, Ont.
+18	McDonald, Bruce	So	Ottawa, Ont.
+21	Pickell, Ben	Fr	Courtice, Ont.
+44	Primerano, Luca	So	North Vancouver, B.C.
+12	Reineke, Jackson	Sr	Faribault, Minn.
+26	Rourke, Braden	Jr	Des Moines, Iowa
+27	Wilson, Trent	Jr	Tsawwassen, B.C.
+Goaltenders
+1	Kochendorfer, Croix	Jr	St. Paul, Minn.
+30	Massie, Lucas	Jr	Claremont, Calif.
+31	Schenkel, Charlie	So	Toronto, Ont.
+
+# Sacred Heart
+Defensemen
+48	Bernardo, Nick	Jr	Hauppauge, N.Y.
+23	Greenberg, Lenny	Fr	El Segundo, Calif.
+24	Jordan, Taos	Fr	Brooklin, Ont.
+10	Lesakowski, Liam	Sr	Buffalo, N.Y.
+6	O'Brien, Jack	Fr	Kennebunk, Maine
+8	Ramsay, Chase	Sr	Granite Springs, N.Y.
+7	Roberts, Noah	Fr	Boca Raton, Fla.
+4	Rubin, Michael	Jr	Blauvelt, N.Y.
+2	VanRooyan, Aiden	Jr	Dakota Dunes, S.D.
+Forwards
+19	Bongo, Jake	Sr	Ridgefield, Conn.
+26	Brigley, Talon	Fr	Red Deer, Alb.
+13	Bryant, Gavin	So	Ingersoll, Ont.
+38	Buttazzoni, Mirko	Jr	Langley, B.C.
+90	Buttazzoni, Diego	So	Langley, B.C.
+9	Chouha, Christian	Fr	Freehold, N.J.
+22	Dahms, Ashton	Fr	Lakeville, Minn.
+16	Flynn, Nolan	Fr	Natick, Mass.
+27	Galata, Cole	Sr	Barrie, Ont.
+91	Gunderson, Landen	So	Plymouth, Minn.
+86	Hanson, Landon	Fr	Grande Prairie, Alb.
+11	Hewitt, Jake	Sr	Ashburnham, Mass.
+14	Hillier, Jack	So	Petawawa, Ont.
+71	Huard, Stephane	Sr	Blainville, Que.
+17	Levyy, Vitaly	Jr	Old Brookville, N.Y.
+21	Phillips, Devin	Gr	Raleigh, N.C.
+41	Semeniuk, Ethan	Fr	Fort St. John, B.C.
+28	Vermette, Emmanuel	Fr	Quebec, Que.
+Goaltenders
+1	Gundarah, Ajeet	Jr	Richmond, B.C.
+30	Spicer, Jack	Jr	Rockville, Md.
+31	Wallstrom, Nils	Sr	Skelleftea, Sweden
+
+# Northern Michigan
+Defensemen
+8	Beaulieu, Olivier	So	Terrebonne, Que.
+4	Clark, Warren	Sr	Riverside, Ont.
+5	Daul, Grayden	Jr	Chicago, Ill.
+6	Davenport, Jason	Fr	Shelby Township, Mich.
+24	Depatie, Evan	Fr	Granby, Que.
+19	Engel, Ian	So	Hortonville, Wis.
+3	Houle, Noah	Jr	Montréal, Que.
+22	Olson, Darik	Fr	Duluth, Minn.
+2	Schiller, Joe	Jr	Moorhead, Minn.
+Forwards
+13	Bolduc, Medrick	Jr	Val-d'Or, Que.
+18	Burchill, Michael	So	Mundelein, Ill.
+12	Cisar, Peter	So	Bratislava, Slovakia
+29	Csabi, Adam	Fr	Karvina, Czechia
+9	Dunn, Coster	Fr	Edmonton, Alb.
+20	Gudmundson, Nik	Fr	Carnation, Wash.
+23	Katavisto, Aapo	Fr	Espoo, Finland
+14	Kotai, Reilley	So	Abbotsford, B.C.
+11	Lamb, Brendan	Jr	Battle Creek, Mich.
+7	Piku, Branden	Sr	Harrison Township, Mich.
+28	Pitters, Owen	Fr	Chesterfield, Mich.
+17	Silkalns, Girts	Sr	Talsi, Latvia
+15	Slipec, Grayden	Jr	Surrey, B.C.
+26	Steenari, Merril	So	Aliso Viejo, Calif.
+10	Ward, Mathew	So	Kamloops, B.C.
+Goaltenders
+30	Auyeung-Ashton, Oliver	So	Coquitlam, B.C.
+31	Fuller, Jack	So	Centerville, Minn.
+32	Weilandt, Max	So	Northbrook, Ill.
+
+# Minnesota State
+Defensemen
+26	Bonkowski, Rylan	So	Richmond, B.C.
+4	Conrad, Jacob	Jr	Green Bay, Wis.
+37	Court, Sam	Jr	Winnipeg, Man.
+28	Hewson, Easton	So	Edmonton, Alb.
+22	Hupka, Liam	So	Minneapolis, Minn.
+8	Skahan, Will	Jr	Orange, Calif.
+18	Stender, Jakob	Sr	Alexandria, Minn.
+7	Strand, Bryce	So	Green Bay, Wis.
+5	Thorp, Gus	Fr	Chippewa Falls, Wis.
+Forwards
+9	Benincasa, Luigi	Sr	Edmonton, Alb.
+20	Carter, Cash	Fr	St. Albert, Alb.
+13	Christ, Jack	Fr	Chaska, Minn.
+15	Kappell, Sam	Fr	Appleton, Wis.
+19	Kraft, Mason	Fr	Moorhead, Minn.
+14	LeBel, Mason	So	South Bend, Ind.
+44	Morich, Reid	So	Scottsdale, Ariz.
+11	Ronn, Jordan	So	Champlin Park, Minn.
+23	Scholl, Sawyer	Sr	Green Bay, Wis.
+17	Somoza, Ean	Sr	Thousand Oaks, Calif.
+27	Watkins, Liam	Jr	Okotoks, Alb.
+21	Williams, Fin	Sr	North Vancouver, B.C.
+12	Zetterberg, Alex	Jr	Sundsvall, Sweden
+Goaltenders
+81	Gardner, Daimon	Jr	Eagle Lake, Ont.
+34	LeGall, Raiden	Fr	Morden, Man.
+35	Lehti, Lassi	Gr	Espoo, Finland
+31	Syverson, Matthew	So	Apple Valley, Minn.
+
+# Michigan Tech
+Defensemen
+21	Andresen, Reid	So	Saskatoon, Sask.
+0	Brady, Morgan	Fr	Woking, Alb.
+0	Brenton, Lucas	Fr	Winnipeg, Man.
+26	Fasciano, Luca	Jr	Toronto, Ont.
+13	Miller, Tyler	Jr	Medicine Hat, Alb.
+0	Moline, Austin	Fr	Las Vegas, Nev.
+8	Parker, Kalem	So	Clavet, Sask.
+25	Pietila, Braden	So	Howell, Mich.
+12	Shipley, Luke	So	Powell River, B.C.
+Forwards
+11	Baker, Owen	Jr	Howell, Mich.
+15	Birnie, Carson	So	Arcola, Sask.
+19	Cicek, Michael	So	Winnipeg, Man.
+17	Daavettila, Reid	So	Howell, Mich.
+0	Delisle, Tristan	Fr	Cornwall, Ont.
+16	Gordon, Isaac	Sr	Landmark, Man.
+10	Jansson, Elias	Jr	Oulu, Finland
+14	Koskipirtti, Max	Sr	Espoo, Finland
+9	Latimer, Carson	Jr	White Rock, B.C.
+2	Leppa, Tom	Jr	Kauniainen, Finland
+29	Matter, Ryder	Jr	Beaumont, Alb.
+5	Matthews, Max	So	Arlington Heights, Ill.
+0	Morneau, Giovanni	Jr	Ottawa, Ont.
+27	Raiman, Lauri	Sr	Vantaa, Finland
+18	Reinhart, Noah	So	Dundas, Ont.
+0	Roulette, Conner	Fr	Winnipeg, Man.
+0	Schrott, Skogen	Fr	Lithia, Fla.
+28	Trembecky, Teydon	So	Strathcona, Alb.
+22	Van Blaricom, Matthew	So	Southey, Sask.
+Goaltenders
+35	Bartoszkiewicz, Owen	Sr	Northville, Mich.
+0	Costanzo, Joseph	Fr	Toronto, Ont.
+31	Lee, Bryant	Jr	Houghton, Mich.
+
+# Lake Superior
+Defensemen
+15	Belanger, Samuel	So	Montréal, Que.
+0	Belusko, Adam	Fr	Kosice, Slovakia
+0	Besnier, Teo	Fr	Briançon, France
+8	Blanchett, Jack	Sr	Monroe, Mich.
+53	Druskinis, Johnny	Jr	Plymouth, Mich.
+21	Galloway, Tyson	Jr	Kamloops, B.C.
+27	Mann, Matteo	So	Sackville, N.B.
+0	Pederson, Doogan	Fr	Langley, B.C.
+3	Potter, Joey	Sr	Los Angeles, Calif.
+2	Ranstrom, Max	So	Filipstad, Sweden
+24	Seed, Nolan	Sr	Newboro, Ont.
+Forwards
+11	Batchelder, Carter	Sr	Savage, Minn.
+0	Boilard, Raoul	Fr	Sherbrooke, Que.
+13	Dahlheimer, Wilson	Jr	Monticello, Minn.
+0	DiVita, Gianni	Fr	Grosse Pointe Farms, Mich.
+26	Herrington, John	Sr	Hudson's Hope, B.C.
+43	Hudak, Hadley	Jr	Canton, Mich.
+17	Levandowski, Luke	Sr	Rosemount, Minn.
+0	Lougheed, Marcus	Fr	Collingwood, Ont.
+7	Mangone, Calem	So	Sault Ste. Marie, Ont.
+97	Mason, Matheson	So	Toronto, Ont.
+22	Milburn, Reagan	Sr	Kamloops, B.C.
+0	Moore, Ethan	Fr	Okotoks, Alb.
+33	Nassen, Casper	Jr	Norrtälje, Sweden
+18	Pietila, Everett	Jr	Howell, Mich.
+28	Ramos, Hunter	So	Fort Wayne, Ind.
+0	Samuelsson, William	Fr	Södertälje, Sweden
+0	Sasaki, Kazumo	Fr	Nishitokyo, JPN
+11	Savoie, Charles	Jr	St-Eustache, Que.
+0	Shaw, Reese	Fr	Coon Rapids, Minn.
+
+# Ferris State
+Defensemen
+10	Coughlin, Luke	So	Charlottetown, P.E.I.
+2	Jamieson, Colton	So	Hudson, Wis.
+4	Lie, Christopher	Jr	Hamar, Norway
+10	Mesic, Jack	Sr	Plymouth, Mich.
+11	Morse, Brian	So	Fresno, Calif.
+0	Orr, Briggs	Fr	Denver, Colo.
+28	Taulien, Trevor	Sr	Crystal Lake, Ill.
+2	Turner, Kade	Jr	Calgary, Alb.
+4	Zemlak, Austin	So	Fort McMurray, Alb.
+Forwards
+9	Bade, Zach	Jr	Rosemount, Minn.
+0	Darby, Hudson	Fr	Swift Current, Sask.
+16	Doell, Holden	Sr	Martensville, Sask.
+0	Dyer, Aidan	Fr	Grand Rapids, Mich.
+0	Garland, Gavin	Fr	Clearwater, Fla.
+22	Goode, Emerson	Sr	Anaheim, Calif.
+0	Johnson, Nicholas	Fr	Calgary, Alb.
+21	Kusler, Ryan	Jr	Battle Creek, Mich.
+0	Leek, Nathan	Fr	Alliston, Ont.
+17	Lisko, Luke	Jr	Marine City, Mich.
+24	Mackie, Nathan	Jr	Prince George, B.C.
+7	Mehlenbacher, Owen	Sr	Fort Erie, Ont.
+0	Merrick, Adyn	Fr	Boston, Mass.
+0	Pulkkanen, Akseli	Fr	Tampere, Finland
+20	Rowe, Tanner	Sr	Calumet, Mich.
+15	Silich, Jack	Jr	Long Grove, Ill.
+0	Smith, Brecken	Fr	Jackson, Mich.
+11	Stupka, Justin	So	Pittsburgh, Pa.
+Goaltenders
+30	Hedquist, Hobie	Sr	Heron Lake, Minn.
+0	Lendak, Alan	Fr	Nitra, Slovakia
+55	Lundberg, Martin	Jr	Furuberget, Norway
+
+# Bowling Green
+Defensemen
+5	Bulans, Peteris	Fr	Riga, Latvia
+7	Bushy, Evan	Sr	Thief River Falls, Minn.
+2	Campbell, Carson	Fr	Campbellford, Ont.
+25	Crampton, Brayden	So	Chilliwack, B.C.
+3	Higgins, Ty	So	Stratford, Ont.
+21	Korodiuk, Ivan	Jr	Kyiv, Ukraine
+17	McKinley, Breck	Sr	St. Albert, Alb.
+6	Wilson, Cooper	Fr	North Vancouver, B.C.
+Forwards
+14	Cheveldayoff, Ty	Fr	Stony Plain, Alb.
+23	Doran, Ben	Sr	Chesterfield, Mo.
+24	Hotson, Tyler	Sr	Stratford, Ont.
+4	Leslie, Mazden	Fr	Lloydminster, Alb.
+20	Levis, Connor	So	Vancouver, B.C.
+15	Martin, Maxwell	Jr	Tawas City, Mich.
+8	Minville, Jérémie	So	Drummondville, Que.
+11	Morneau, Noah	So	Riverside, Ont.
+26	Patton, Teague	Jr	Kelowna, B.C.
+77	Rymon, Dominik	So	Karlovy Vary, Czech Republic
+16	Sloan, Jake	So	Girvan, Great Britain
+22	Soto, Matthew	Fr	St. Paul, Minn.
+18	Verdon, Thomas	Fr	Cleveland, Ohio
+29	Waters, Brody	Sr	Heidelberg, Ont.
+27	Whynott, Brandon	So	Langley, B.C.
+10	Zlnka, Adam	Jr	Detva, Slovakia
+Goaltenders
+33	Michaluk, Cooper	Fr	Sherwood Park, Alb.
+31	Palmer, Tyler	Jr	Fernie, B.C.
+1	Steinman, Jacob	So	Cambridge, Ont.
+
+# Bemidji State
+Defensemen
+0	D'Amato, Luca	Fr	Maple, Ont.
+5	Gramer, Joe	Jr	Moorhead, Minn.
+0	Harris, Samuel	Fr	Minneapolis, Minn.
+29	Henderson, Ryan	Jr	Lethbridge, Alb.
+12	Macaulay, A.J.	Sr	Bonnyville, Alb.
+0	Revenig, Eddie	Fr	Edina, Minn.
+23	Roelofs, Luke	Jr	Minnetrista, Minn.
+5	Thornton, Hudson	So	Winnipeg, Man.
+2	Vig, Maxon	So	Bismarck, N.D.
+13	Vigneault, Ben	So	Boischâtel, Que.
+0	Ziprick, Aiden	Fr	Russell, Man.
+Forwards
+0	Birnie, Brady	Fr	Regina, Sask.
+14	Dawson, Will	Jr	Traverse City, Mich.
+0	Dube, Brayden	Fr	Roblin, Man.
+24	Gould, Rylan	So	Headingley, Man.
+0	Johnson, Isaac	Fr	Fergus Falls, Minn.
+16	Karlsson, Oscar	So	Linköping, Sweden
+0	Klima, Jiri	Fr	Suchý Dul, Czech Republic
+8	Labelle, Vincent	Sr	Ottawa, Ont.
+25	Lund, Tory	Jr	Sartell, Minn.
+15	McClennon, Connor	Sr	Wainwright, Alb.
+27	McLean, Jake	Sr	North Vancouver, B.C.
+0	Miedema, Ethan	Fr	Fort St. John, B.C.
+18	Namestnikov, Max	So	Wolverine, Mich.
+9	Panzer, Jaksen	Jr	Grand Forks, N.D.
+22	Peer, Oliver	Sr	Burlington, Ont.
+34	Rapalje, Carter	Sr	Burlington, Vt.
+14	Sylvestre, Alexi	Jr	Ste-Martine, Que.
+19	Yuhas, Vann	Jr	Medicine Hat, Alb.
+Goaltenders
+1	Hildebrand, Max	So	Martensville, Sask.
+35	Robbins, Raythan	Sr	Anchorage, Alaska
+30	Wiemken, Trent	Jr	Fargo, N.D.
+
+# Augustana
+Defensemen
+96	Baumgartner, Owen	Sr	Owatonna, Minn.
+4	Chakrabarti, Maxwell	So	Surrey, B.C.
+7	Comstock, Erick	Fr	Salol, Minn.
+2	Fandel, Landon	So	Sioux Falls, S.D.
+9	Hennen, Hayden	Sr	Hallock, Minn.
+84	Hutchinson, Jeff	Sr	St. Louis, Mo.
+6	Meritahti, Samo	Jr	Seinäjoki, Finland
+23	Theissen, Carter	Jr	Plymouth, Minn.
+48	Whiterabbit, Ryan	Fr	Mahtomedi, Minn.
+5	Young, Easton	Jr	Grand Rapids, Minn.
+Forwards
+12	Bischoff, Hunter	Sr	Cohasset, Minn.
+81	Bohn, Owen	Sr	San Jose, Calif.
+92	Bulgakov, Leonid	So	Minsk, Belarus
+93	Burtch, Cole	Sr	Markham, Ont.
+10	DelGreco, Joey	Jr	Grand Rapids, Minn.
+14	Fletcher, Jacob	So	Midland, Ont.
+26	Gau, Callum	Sr	Camrose, Alb.
+11	Hennen, Tyler	Jr	Hallock, Minn.
+13	Howard, Will	Sr	Grand Forks, N.D.
+20	Jastrzebski, Jacob	So	Chicago, Ill.
+86	Langus, Nace	Jr	Jesenice, Slovenia
+39	Marshchanok, Siamion	Fr	Minsk, Belarus
+18	Marshchanok, Matsvei	Fr	Minsk, Belarus
+72	Meerman, Brett	Sr	Blackfalds, Alb.
+22	Nelson, Heath	Fr	Lino Lakes, Minn.
+Goaltenders
+31	Langevin, Mathis	So	St-Zotique, Que.
+1	Manz, Christian	Jr	Blaine, Minn.
+33	Zol, Angelo	Fr	Kelowna, B.C.
+
+# Wisconsin
+Defensemen
+4	Compton, Dylan	So	Victoria, B.C.
+6	Hensler, Logan	Jr	Woodbury, Minn.
+26	Knox, Weston	Jr	Andover, Minn.
+2	Osburn, Luke	So	Plymouth, Mich.
+14	Palodichuk, Joe	Sr	Cottage Grove, Minn.
+8	Phelan, Jack	Jr	Hinsdale, Ill.
+5	Schulz, Zach	Sr	South Lyon, Mich.
+23	Stout, John	Fr	Minnetonka, Minn.
+Forwards
+24	Blanck, Talan	Fr	Fond du Lac, Wis.
+21	Botterill, Ryan	Jr	Portage la Prairie, Man.
+27	Brink, Finn	So	Maple Grove, Minn.
+17	Deering, Grady	So	Des Moines, Iowa
+91	Idzan, Bruno	So	Zagreb, Croatia
+9	Jette, Chase	Fr	Lake Forest, Ill.
+7	Morrissey, Gavin	Jr	Dayton, Ohio
+57	Orpana, Eetu	Fr	Lempäälä, Finland
+18	Pietila, Adam	Jr	Howell, Mich.
+3	Solomon, Brent	Fr	Champlin, Minn.
+55	Tulk, Oliver	So	Gibsons, B.C.
+12	Uhlenkamp, Gavin	Fr	Chanhassen, Minn.
+86	Wiebusch, JJ	Jr	River Falls, Wis.
+19	Wooten, Zachary	Fr	Apple Valley, Minn.
+94	Zelenov, Vasily	So	Moskva, Russia
+Goaltenders
+30	Cournoyer, Alexis	So	Trois-Rivières, Que.
+31	Hauser, Daniel	So	Chestermere, Alb.
+35	Miceli, Xander	Fr	Nashville, Tenn.
+
+# Penn State
+Defensemen
+3	Aman, Casey	Sr	Johnstown, Pa.
+77	Collins, Nolan	So	Whitby, Ont.
+10	Fascia, Nick	Jr	Blackwood, N.J.
+4	Gadowsky, Mac	Sr	Fairbanks, Alaska
+2	Herrington, Caeden	So	Manchester, Vt.
+7	Michaud, Charlie	So	Denver, Colo.
+7	Smith, Jackson	So	Calgary, Alb.
+0	Weber, Ethan	Fr	Manhattan Beach, Calif.
+Forwards
+0	Busch, Shea	Fr	North Vancouver, B.C.
+0	Dach, Kale	Fr	Fort Saskatchewan, Alb.
+19	Dowiak, Dane	Sr	Wexford, Pa.
+21	Ford, Braedon	Jr	Pittsburgh, Pa.
+33	Katzin, Lev	So	Thornhill, Ont.
+0	Larose, Justin	Fr	Saint-Lazare, Que.
+29	Laubach, Reese	Sr	San Jose, Calif.
+0	Mignosa, Marco	Fr	Toronto, Ont.
+11	Misa, Luke	So	Oakville, Ont.
+9	Peters, Keaton	Jr	Sussex, Wis.
+0	Pitre, Kaden	Fr	Stouffville, Ont.
+93	Poirier, Justin	So	Salaberry-de-Valleyfield, Que.
+93	Van Olm, Shea	So	Calgary, Alb.
+Goaltenders
+0	Fetterolf, Ryder	Fr	Pittsburgh, Pa.
+34	Fleming, Joshua	So	Montréal, Que.
+30	McFayden, Chris	Sr	Pittsburgh, Pa.
+0	Petty, Crew	Fr	Kennewick, Wash.
+
+# Ohio State
+Defensemen
+2	Able, Chris	Jr	Libertyville, Ill.
+78	Boumedienne, Sascha	Jr	Oulu, Finland
+5	Fibigr, Jakub	Fr	Unicov, Czechia
+21	Ingles, Bryce	So	Clyde, Mich.
+4	Marrelli, Frankie	Fr	Markham, Ont.
+8	McBrayer, Nathan	Sr	Columbus, Ohio
+27	McGinley, Sam	Sr	Calgary, Alb.
+28	Smith, William	Sr	Toronto, Ont.
+Forwards
+13	Caron, Felix	Jr	Terrebonne, Que.
+24	Crocker, Niall	So	Delta, B.C.
+11	Crowder, Jackson	Fr	Allen, Texas
+25	Deckhut, Sam	Sr	San Diego, Calif.
+29	Gordon, Ryan	Sr	Duluth, Ga.
+19	Hong, James	Jr	Irvine, Calif.
+9	Jardine, Evan	Fr	Bloomfield Hills, Mich.
+49	Karabela, Jake	So	Guelph, Ont.
+63	Lewis, Nathan	Jr	Chicago, Ill.
+16	Montes, Max	Sr	Waukesha, Wis.
+33	Pahlsson, Erik	Jr	Landskrona, Sweden
+56	Rucinski, Ryan	Fr	Broadview Heights, Ohio
+18	Tomko, Will	Fr	McMurray, Pa.
+10	Weis, Thomas	Sr	Madison, Wis.
+53	Wilmott, Benjamin	Fr	Seattle, Wash.
+Goaltenders
+60	Eberly, Kristoffer	Sr	Pinckney, Mich.
+1	Erickson, Jack	Jr	White Bear Lake, Minn.
+31	Milota, Jakub	Fr	Ostrava, Czechia
+
+# Notre Dame
+Defensemen
+0	Aucoin, Cameron	Fr	Chicago, Ill.
+27	Carlisle, Caeden	So	Mississauga, Ont.
+16	Fischer, Paul	Sr	River Forest, Ill.
+55	Gruba, Leo	Jr	Lake Elmo, Minn.
+2	Jurcev, Jimmy	Jr	Palos Heights, Ill.
+21	Kerr, Jaedon	Jr	Fishers, Ind.
+0	Klaers, Danny	Fr	Minnetrista, Minn.
+6	Mackie, Drew	So	Anchorage, Alaska
+12	Nelson, Henry	Sr	Maple Grove, Minn.
+6	Quinn, Michael	Jr	St. Louis, Mo.
+Forwards
+13	Ali, Brennan	Sr	Glencoe, Ill.
+8	Belle, William	So	Minnetonka, Minn.
+9	Brown, Cole	So	Aurora, Ont.
+13	Burrows, Hagen	Jr	Orono, Minn.
+15	Davis, Jayden	Sr	Calgary, Alb.
+0	Edwards, Beckham	Fr	London, Ont.
+17	Fimis, Panayioti	So	Richmond Hill, Ont.
+14	Fleming, Maddox	Sr	Rochester, Minn.
+22	Klee, David	So	Castle Rock, Colo.
+0	Nelson, Sammy	Fr	Maple Grove, Minn.
+11	Nelson, Danny	Sr	Maple Grove, Minn.
+24	Oliver, Dashel	So	Bloomington, Ind.
+23	Schermerhorn, Michael	Jr	Traverse City, Mich.
+25	Slaggert, Carter	Sr	South Bend, Ind.
+0	Walsh, Jackson	Fr	Northville, Mich.
+19	Werner, Evan	Sr	Flower Mound, Texas
+Goaltenders
+37	Hopp, Toby	Jr	Maple Grove, Minn.
+31	Kempf, Nicholas	Jr	Morton Grove, Ill.
+0	Quinlan, Patrick	Fr	Kennett Square, Pa.
+
+# Minnesota
+Defensemen
+33	Begley, Axel	Sr	Mahtomedi, Minn.
+25	Henricks, Tanner	So	Mission Viejo, Calif.
+26	Löfgren, Axel	Fr	Luleå, Sweden
+9	Loftus, Finn	Jr	Blaine, Minn.
+10	Murr, Evan	Sr	Stillwater, Minn.
+5	Rombach, Jacob	So	Blaine, Minn.
+24	Smith, Tarin	Fr	Porcupine Plain, Sask.
+4	Whipple, John	Jr	Morristown, N.J.
+Forwards
+23	Burnevik, Austin	Jr	Ham Lake, Minn.
+77	Cullen, Wyatt	Fr	Moorhead, Minn.
+17	Cullen, Brooks	Fr	Moorhead, Minn.
+34	Harris, Graham	Jr	Excelsior, Minn.
+7	Hendrickson, Beckett	Jr	Minnetonka, Minn.
+48	Humphreys, Christian	So	Pittsburgh, Pa.
+83	Kvasnicka, Jacob	Fr	Burnsville, Minn.
+11	Ludtke, Tanner	Sr	Elko, Minn.
+79	Moe, Mason	So	Eden Prairie, Minn.
+18	Mooney, LJ	So	West Mifflin, Pa.
+22	Moore, Javon	So	Minnetonka, Minn.
+20	Nevers, Jackson	Fr	Edina, Minn.
+3	Pritchard, Tate	So	Savage, Minn.
+44	Townsend, Teddy	So	Eden Prairie, Minn.
+74	Ziemer, Brodie	Jr	Chaska, Minn.
+Goaltenders
+31	Di Pasquo, Luca	Sr	Livonia, Mich.
+30	Sabev, Alex	Fr	Mounds View, Minn.
+60	Strahl, Melvin	So	Sollefteå, Sweden
+
+# Michigan State
+Defensemen
+3	Barnhill, Sean	So	Scottsdale, Ariz.
+22	Bleyl, Thomas	Fr	Schenectady, N.Y.
+2	Geary, Patrick	Sr	Hamburg, N.Y.
+14	Lahey, Matthew	So	Victoria, B.C.
+4	Peddle, Brady	Fr	Antigonish, N.S.
+27	Reid, Chase	Fr	Chesterfield, Mich.
+6	Ward, Cole	So	Rochester Hills, Mich.
+11	West, Owen	Jr	Pittsboro, Ind.
+Forwards
+16	Belchetz, Ethan	Fr	Oakville, Ont.
+25	Burke, Cole	So	Trenton, Mich.
+7	Clark, Jimmy	Sr	Edina, Minn.
+17	Hextall, Jack	Fr	Rolling Meadows, Ill.
+19	Johnson, Diego	Fr	Fort St. James, B.C.
+12	Jurecki, Griffin	Sr	Grosse Ile, Mich.
+18	Lee, Ryker	So	Wilmette, Ill.
+28	Lindstrom, Cayden	So	Chetwynd, B.C.
+10	Männistö, Tommi	Sr	Riihimäki, Finland
+26	Nilson, Eric	So	Balsta, Sweden
+29	O'Connell, Gavin	So	Wayzata, Minn.
+21	Potter, Cullen	Jr	Minneapolis, Minn.
+15	Romani, Anthony	So	Pickering, Ont.
+23	Vansaghi, Shane	Jr	St. Louis, Mo.
+9	West, Mason	Fr	Edina, Minn.
+Goaltenders
+31	Ravensbergen, Joshua	Fr	North Vancouver, B.C.
+32	Salajko, JJ	Fr	Columbus, Ohio
+1	Sigurdson, Quentin	Jr	Sartell, Minn.
+
+# Michigan
+Defensemen
+4	Barnett, Asher	So	Wilmette, Ill.
+8	DuPont, Landon	Fr	Calgary, Alb.
+23	Gust, Miles	Jr	Chicago, Ill.
+3	Harper, Brandt	Fr	Tampa, Fla.
+88	Mews, Henry	So	Ottawa, Ont.
+68	Orrico, Josh	Sr	Woodbridge, Ont.
+81	Reid, Cam	Fr	Aylmer, Ont.
+7	Rheaume-Mullen, Dakoda	Jr	Northville, Mich.
+21	Robertson, Ben	Sr	Potomac Falls, Va.
+10	Schock, Drew	So	Green Bay, Wis.
+Forwards
+95	Dervin, Kieren	Fr	Gloucester, Ont.
+19	Hage, Michael	Jr	Mississauga, Ont.
+44	Horcoff, Will	Jr	Birmingham, Mich.
+2	Hurlbert, J.P.	Fr	Allen, Texas
+11	McKinney, Cole	So	Chicago, Ill.
+9	Moldenhauer, Nick	Sr	Mississauga, Ont.
+22	Muscutt, Kason	So	Bossier City, La.
+71	Nesbitt, Jack	Fr	Sarnia, Ont.
+16	Park, Aidan	So	Hermosa Beach, Calif.
+18	Perron, Jayden	Sr	Winnipeg, Man.
+17	Schifsky, Garrett	Sr	Andover, Minn.
+96	Sima, Nic	Fr	Mississauga, Ont.
+27	Spence, Malcolm	So	Mississauga, Ont.
+92	Valentini, Adam	So	Toronto, Ont.
+Goaltenders
+72	Ivankovic, Jack	So	Mississauga, Ont.
+34	Molinaro, Julian	Jr	Mississauga, Ont.
+31	Peck, Stephen	Fr	New York, N.Y.
+
+# Brown
+Defensemen
+10	Bynum, Ashton	So	Tulsa, Okla.
+16	Dyer, Owen	So	Clarkston, Mich.
+5	Fitzgerald, Kevin	Jr	Bath, Ont.
+27	Hewitt, Jack	Jr	Toronto, Ont.
+6	Lansing, Gerrit	Fr	New York, N.Y.
+24	Lonergan, Brian	So	Montvale, N.J.
+22	Mistry, Ethan	Sr	Toronto, Ont.
+26	Schwartz, Leo	Jr	Jericho, N.Y.
+20	Senerchia, Marco	Fr	Greenville, R.I.
+2	Zarsky, Tristan	Jr	Edmonton, Alb.
+Forwards
+19	Brille, Matthew	Sr	Bethesda, Md.
+7	Brown, Archer	Fr	New York, N.Y.
+17	Cataldo, Mike	Sr	Norfolk, Mass.
+21	Cataldo, Matthew	So	Norfolk, Mass.
+9	Danis, Matteo	Fr	Calgary, Alb.
+28	Emery, Cullen	Fr	Los Angeles, Calif.
+34	Erdman, Griffin	Jr	Wilmington, Del.
+15	Gollob, Charlie	Jr	Toronto, Ont.
+29	King, Andrew	Jr	Dubuque, Iowa
+55	Nicholas, Brian	Jr	Scarsdale, N.Y.
+11	Pendy, Trip	So	Far Hills, N.J.
+18	Poirier, George	Fr	Arvada, Colo.
+12	Poitras, Ben	Jr	Montréal, Que.
+13	Salandra, Michael	Jr	Pleasantville, N.Y.
+14	Tighe, Brendan	So	Marietta, Ga.
+Goaltenders
+1	Halyk, Fred	Sr	Cochrane, Alb.
+35	Pulver, Eli	Jr	Vancouver, B.C.
+30	Shakar, Devin	Fr	Glenville, N.Y.
+
+# Clarkson
+Defensemen
+44	Brassington, Ty	Jr	White Rock, B.C.
+12	Cardona, Adam	Sr	Beaconsfield, Que.
+2	Craig, Michael	Sr	St. Catharines, Ont.
+8	Dufresne, Axel	Fr	Boisbriand, Que.
+17	Sandhu, Zack	Fr	Toronto, Ont.
+72	Sookro, Bryce	So	Nelson, B.C.
+55	Sparkes, Jack	Jr	Ottawa, Ont.
+27	Taylor, Tate	Jr	Richmond, B.C.
+4	Young, Nikolas	Fr	Lawton, N.Y.
+Forwards
+92	Cote, Justin	So	Salaberry-de-Valleyfield, Que.
+10	Gelinas, Remi	So	Deux-Montagnes, Que.
+15	Gervais, Sebastian	Fr	Windsor, Ont.
+28	Hellyer, Conyr	So	Okotoks, Alb.
+91	Huchette, Mikael	Jr	Longueuil, Que.
+81	Letourneau, Jace	So	Arnprior, Ont.
+20	Mangan, Jared	Jr	Charleston, S.C.
+86	Misaljevic, Adrian	So	Woodbridge, Ont.
+13	O'Donnell, Shawn	Sr	Pittsburgh, Pa.
+21	Pharand, Alex	Fr	Sudbury, Ont.
+16	Reid, Hayden	Fr	Orono, Ont.
+14	Sigurdson, Talon	Sr	Sartell, Minn.
+37	St-denis, Mael	So	Nominingue, Que.
+11	Sukovic, Luka	Jr	Lincolnshire, Ill.
+19	Van Steensel, Owen	So	Ilderton, Ont.
+26	Wallace, Tyler	Sr	Calgary, Alb.
+Goaltenders
+70	Gaudreau, Ben	Fr	North Bay, Ont.
+35	Labre, Dawson	So	Les Cèdres, Que.
+30	Soderwall, Shane	Jr	Algonquin, Ill.
+
+# Colgate
+Defensemen
+4	Dubey, Brandt	Fr	Orchard Park, N.Y.
+11	Fernandez, Antonio	Sr	San Jose, Calif.
+7	Kim, Kyle	So	Northville, Mich.
+2	Larioza, Nathan	Fr	Los Gatos, Calif.
+28	Malboeuf, Luke	So	Monroeville, Pa.
+27	Merner, Brett	Jr	Nanaimo, B.C.
+26	Niedermayer, Josh	Jr	Newport Beach, Calif.
+9	Norlin, Isaiah	Jr	Minneapolis, Minn.
+Forwards
+14	Brandt, Jack	Jr	Columbus, Ohio
+22	Byrd-Leitner, Porter	Fr	Moorestown, N.J.
+17	Clark, Braiden	Fr	Columbus, Ohio
+10	Dadie, Simone	Jr	Brunico, ITA
+25	Doucette, Tyson	So	Sault Ste. Marie, Ont.
+12	Lyne, Samuel	Fr	Chelmsford, Great Britain
+13	Nagel, Max	Jr	West St. Paul, Minn.
+23	Ohman, Tobias	Fr	Uppsala, Sweden
+15	Pakulak, Luke	Jr	Surrey, B.C.
+29	Patella, Davide	So	Laval, Que.
+21	Rexine, Niko	Sr	Syracuse, N.Y.
+24	Schneider, Jake	Sr	Plymouth, Minn.
+8	Shcherbyna, Lukyan	Fr	Vancouver, B.C.
+19	Spinale, Ryan	Jr	Plymouth, Mass.
+16	Sullivan, Ryan	Sr	Calgary, Alb.
+20	Wainwright, Easton	So	Mount Hope, Ont.
+18	Zimmerman, Elias	So	Gävle, Sweden
+Goaltenders
+37	Dyck, Reid	So	Winkler, Man.
+1	Krakora, Andrew	Fr	Pittsburgh, Pa.
+35	Olson, Jack	Jr	St. Louis Park, Minn.
+
+# Cornell
+Defensemen
+11	Ashton, Luke	Jr	North Vancouver, B.C.
+6	Fegaras, George	Sr	Richmond Hill, Ont.
+16	Fisher, Michael	Jr	Westborough, Mass.
+2	Gorski, Hudson	So	Scotch Plains, N.J.
+26	Hamilton, Donovan	So	Buffalo, N.Y.
+3	McCrady, Luke	So	Calgary, Alb.
+5	Randle, Ryland	Fr	Winnipeg, Man.
+28	Tuminaro, Cole	Fr	South Beloit, Ill.
+4	Veilleux, Xavier	So	L'Ancienne-Lorette, Que.
+24	Wolfenberg, Nicholas	Jr	Calgary, Alb.
+Forwards
+23	Arend, Charles	Fr	Wilmette, Ill.
+36	Armstrong, Coco	Fr	West Vancouver, B.C.
+19	Arseneault, Connor	So	Saint John, N.B.
+15	Catalano, Tyler	Sr	St. Louis, Mo.
+8	Devlin, Luke	Sr	Memphis, Tenn.
+13	DiGiulian, Gio	So	South Burlington, Vt.
+20	Gardiner, Brad	Fr	Aurora, Ont.
+18	Hiscock, Reegan	So	St. John's, Newf.
+27	Hughes, Cal	Fr	Basking Ridge, N.J.
+10	Kraft, Jake	Sr	Rochester, N.Y.
+17	Long, Aiden	Jr	Mono, Ont.
+9	Major, Charlie	Jr	Skaneateles, N.Y.
+29	Murray, Parker	Jr	Manhattan Beach, Calif.
+22	Pirtle, Chase	So	Far Hills, N.J.
+12	Ryan, Caton	So	San Francisco, Calif.
+14	Walsh, Ryan	Sr	Rochester, N.Y.
+21	Wehmann, Louis	Fr	Wayzata, Minn.
+7	Zadvernyuk, Ivan	Jr	Moskva, Russia
+Goaltenders
+37	Katz, Justin	Jr	Mont-Royal, Que.
+40	Roest, Erick	So	Lethbridge, Alb.
+60	Rousseau, Mathis	So	Montréal, Que.
+
+# Dartmouth
+Defensemen
+12	Busconi, Tim	Jr	Milton, Mass.
+2	Charpentier, Eric	Sr	Silver Spring, Md.
+22	Cleaves, Cooper	So	Riverside, Conn.
+24	Desiderio, Matthew	So	North Caldwell, N.J.
+43	Desilets, Owen	Sr	Airdrie, Alb.
+20	Devlin, Brock	So	Mission Viejo, Calif.
+4	Foley, CJ	Sr	Hanover, Mass.
+6	Fusco, Matt	Sr	Westwood, Mass.
+9	Grable, Colin	Jr	Spring Lake, N.J.
+0	Harvey, Ryan	Fr	Stouffville, Ont.
+Forwards
+0	Allecia, Jesse	Fr	New York, N.Y.
+0	Buckley, Ben	Fr	Warwick, R.I.
+21	Clarke, Andrew	So	Creve Coeur, Mo.
+18	Cleaves, Hank	Jr	Riverside, Conn.
+71	Cummings, Brock	So	Mississauga, Ont.
+27	Grahme, Tyler	So	Bloomington, Minn.
+11	Morin, Nathan	So	St-Augustin-de-Desmaures, Que.
+7	Nikora, Nikita	Sr	St. Petersburg, Russia
+0	Robertson-Palmer, Grayden	Fr	Kanata, Ont.
+8	Salani, Austin	Jr	Hancock, Mich.
+26	Schelling, Ryan	So	Airmont, N.Y.
+13	Schenk, Joshua	Jr	Whitehorse, Yukon
+86	Silverberg, Jack	Jr	Sherwood Park, Alb.
+10	Stavroff, Hayden	Jr	Dublin, Ohio
+92	Stefanek, Jason	So	Yorba Linda, Calif.
+0	Stewart, Drew	Fr	Minnetonka, Minn.
+24	Vuorio, Oskari	Sr	Espoo, Finland
+0	Young, Grant	Fr	Boulder, Colo.
+Goaltenders
+32	Clarke, Roan	Sr	Cloverdale, B.C.
+70	Croteau, Emmett	Sr	Bonnyville, Alb.
+0	Gatto, Sebastian	Fr	Troy, Mich.
+
+# Harvard
+Defensemen
+3	Biotti, Matthew	So	Cambridge, Mass.
+18	Bracco, Donato	So	Locust Valley, N.Y.
+2	Hejduk, David	Sr	Parker, Colo.
+12	Huang, Alex	Fr	Rosemère, Que.
+5	Keohane, Sean	Jr	Milton, Mass.
+44	Mackey, James	So	Villanova, Pa.
+14	Morden, Matthew	Sr	Hamilton, Ont.
+20	Murray, Drake	So	Manhattan Beach, Calif.
+26	St. Louis, Lucas	Jr	Burlington, Vt.
+Forwards
+7	Benson, Niles	Fr	Safety Harbor, Fla.
+8	Callow, Michael	Sr	Boston, Mass.
+10	Fine, Ryan	Sr	Center Moriches, N.Y.
+6	Gallant, Richard	So	Concord, Mass.
+22	Graf, Justin	Fr	Boston, Mass.
+23	Guzzo, Salvatore	Sr	Old Tappan, N.J.
+57	Heinze, Eli	Fr	Santa Barbara, Calif.
+17	Hughes, Will	Jr	Andover, Mass.
+21	Johnson, Cam	Sr	Vancouver, B.C.
+88	Lane, Aidan	So	Mississauga, Ont.
+19	MacDonald, Ben	Sr	Weston, Mass.
+16	McDonough, William	Jr	Duxbury, Mass.
+9	Ruohonen, Heikki	So	Helsinki, Finland
+15	Salandra, Joseph	Fr	Pleasantville, N.Y.
+11	Solovey, Justin	Jr	Holmdel, N.J.
+24	Stefanek, Chase	So	Yorba Linda, Calif.
+27	Thompson, Mick	Jr	Toronto, Ont.
+Goaltenders
+31	Charette, Ben	Jr	Aurora, Ont.
+25	Guimond, Rudy	Fr	Pointe-Claire, Que.
+1	Zhang, Evan	Jr	Sherborn, Mass.
+
+# Princeton
+Defensemen
+6	Devlin, Ian	Sr	Memphis, Tenn.
+23	Greaves, Kai	Jr	Cambridge, Ont.
+5	Lavoie, Maxime	Fr	Victoria, B.C.
+4	Lyons, Christian	Fr	St. Louis, Mo.
+27	Mittelsteadt, Ethan	Fr	Kelowna, B.C.
+2	Monahan, Denny	Fr	Norwell, Mass.
+3	Reilly, Pat	Jr	Avon, N.J.
+33	Reiniger, Christopher	So	Annapolis, Md.
+Forwards
+14	Buydens, Carson	Sr	Gladstone, Man.
+7	Daniells, Kai	Sr	Whistler, B.C.
+15	Facchinelli, Julian	Jr	Woodbridge, Ont.
+13	Garzone, Drew	Jr	Dover, Mass.
+10	Green, Malcolm	So	Bedford, N.S.
+24	Gudelj, Jacob	Fr	North Vancouver, B.C.
+17	Gunty, Miles	Jr	Bethesda, Md.
+18	Karnish, Joshua	Sr	Marlton, N.J.
+11	Kingwell, Shaan	Fr	Ottawa, Ont.
+19	Latta, Seamus	So	Bozeman, Mont.
+12	Manfre, Jake	Jr	Smithtown, N.Y.
+26	Pelletier, Luc	Jr	Courtenay, B.C.
+22	Souliere, Matt	So	London, Ont.
+9	Ulvebne, Hans Martin	So	Oslo, Norway
+21	Young, Michael	Sr	Kings Park, N.Y.
+Goaltenders
+30	Callaghan, Conor	Sr	Upper Saddle River, N.J.
+35	Moor, Daniel	So	Omaha, Neb.
+31	Morris, Brady	So	Rye, N.Y.
+1	Smith, Arthur	Sr	Farmington, Conn.
+
+# Quinnipiac
+Defensemen
+0	Alcos, Parker	Fr	Port Moody, B.C.
+0	Anastasio, Drew	Fr	West Simsbury, Conn.
+22	Blace, Braden	Jr	Duncan, B.C.
+0	Golicic, Jan	Fr	Jesenice, Slovenia
+7	Groenewold, Elliott	Jr	Bellows Falls, Vt.
+0	Guilbault, Gabriel	Fr	Burnaby, B.C.
+6	Leddy, Charlie	Sr	Fairfield, Conn.
+4	McCutcheon, Logan	So	Saskatoon, Sask.
+5	Schultz, Brady	So	Monroe, Conn.
+16	Strathmann, Andrew	Jr	Beach Park, Ill.
+15	Sward, Graham	Jr	Langley, B.C.
+25	Tivey, Nate	So	Burlington, Ont.
+0	Tobey, Nathan	Fr	Lantana, Texas
+Forwards
+10	Borgula, Tyler	Jr	Livonia, Mich.
+27	Cerbone, Andon	Sr	Stamford, Conn.
+0	Edwards, Dylan	Fr	Toronto, Ont.
+0	Frasca, Gabriel	Fr	Caledon, Ont.
+0	Kostov, Alex	Fr	Mississauga, Ont.
+26	Lansing, Matthew	So	Tonawanda, N.Y.
+20	Marcellus, Mason	Sr	Greely, Ont.
+0	Maze, Julien	Fr	Edmonton, Alb.
+8	McGroarty, Matthew	Sr	Westport, Conn.
+28	Pelosi, Chris	Jr	Sewell, N.J.
+11	Schwartz, Aaron	Jr	Parkland, Fla.
+19	Stockfish, Jack	Sr	North Bay, Ont.
+23	Verreault, Antonin	So	Mirabel, Que.
+12	Vidicek, Markus	So	Montréal, Que.
+16	Wilmer, Jeremy	Sr	Rockville Centre, N.Y.
+19	Wyttenbach, Ethan	So	Roslyn, N.Y.
+Goaltenders
+33	Applebee, Rorke	Jr	Châteauguay, Que.
+0	Kirsch, Christian	Fr	Basel, Switzerland
+33	Marinov, Matej	Sr	Nitra, Slovakia
+31	Scopa, Samuel	So	Lexington, Mass.
+
+# RPI
+Defensemen
+0	Burzynski, Grayson	Fr	Iowa City, Iowa
+0	Guo, James	Fr	Woodbridge, Ont.
+3	Heroux, Logan	Jr	Middletown, N.J.
+22	Hildtch, Landen	So	Surrey, B.C.
+4	Jovanovic, Matthew	So	Toronto, Ont.
+6	Klassek, Thomas	So	Klagenfurt, Austria
+61	Matta, Lucas	Sr	Kleinburg, Ont.
+0	Matthews, Carter	Fr	Calgary, Alb.
+0	Michael, Ryan	Fr	Langley, B.C.
+18	Motew, Simon	Jr	Highland Park, Ill.
+0	Slezak, Guerin	Fr	Arlington, Texas
+5	Sobieski, Kazimier	Jr	Deerfield, Mass.
+Forwards
+9	Bono, Ethan	Sr	Port McNeill, B.C.
+82	Bourgault, Mathieu	Jr	St-Bruno-de-Montarville, Que.
+21	Buckley, Matthew	So	Oakville, Ont.
+0	Chemrouk, Kamyl	Fr	Montréal, Que.
+0	Gavin, Jordan	Fr	Surrey, B.C.
+0	Goukler, Luke	Fr	Cumming, Ga.
+0	Hadland, Caleb	Fr	Sylvan Lake, Alb.
+19	Kyrkostas, Jackson	So	Windham, N.H.
+86	Lindberg, Alfred	Sr	Hallsberg, Sweden
+0	Lodewyk, Harrison	Fr	Red Deer, Alb.
+43	McNeil, Brad	Sr	Royal Oak, Mich.
+18	Ross, Brendan	Jr	Calgary, Alb.
+11	Rullers, Rainers	Jr	Riga, Latvia
+91	Scherzer, Ian	So	Villach, AUT
+49	Sitar, Filip	Jr	Ljubljana, Slovakia
+72	Tapper, Jagger	Jr	Calgary, Alb.
+0	Witkowski, Kieran	Fr	Toronto, Ont.
+27	Yurchuk, Benjamin	So	Montréal, Que.
+Goaltenders
+32	Dorfman, Carson	Jr	Hermitage, Tenn.
+30	Krawchuk, Nate	So	Thunder Bay, Ont.
+0	McCallum, Ethan	Fr	Brandon, Man.
+
+# St. Lawrence
+Defensemen
+3	Bishop, William	So	Baie d'Urfée, Que.
+2	Bishop, Will	Fr	London, Ont.
+4	Brown, Andrew	So	Oakville, Ont.
+25	Dirracolo, Max	Fr	Barrie, Ont.
+16	Frandina, Sam	So	Hanover, N.H.
+7	Hall, Sam	Jr	Oldwick, N.J.
+26	Lammens, Jake	Sr	Norwalk, Conn.
+15	Mitchell, Evan	Sr	Kanata, Ont.
+23	Olenginski, Jan	Sr	Philadelphia, Pa.
+22	Santilli, Luke	So	Reading, Mass.
+Forwards
+28	Beneteau, Nicholas	Jr	Windsor, Ont.
+19	Bernadet, Jacob	Jr	South Burlington, Vt.
+14	Casey, Cayden	Jr	Elk River, Minn.
+18	Fisher, James	Jr	Burlington, Mass.
+9	Juricek, Filip	So	Ostrava, Czech Republic
+12	Kopecky, Jakub	So	Grand Rapids, Mich.
+8	LeDrew, Sam	So	Stillwater Lake, N.S.
+11	Pazii, Ihnat	Fr	Kharkiv, Ukraine
+13	Pierson, Cooper	So	Zionsville, Ind.
+24	Posthumus, Luke	Fr	Ottawa, Ont.
+21	Rozzi, Jake	Jr	Kirkland, Que.
+29	Thoreson, Gunnar	Sr	Andover, Minn.
+27	Tremblay, Isaac	Jr	Granby, Que.
+20	Tylec, Owen	Fr	Wheatfield, N.Y.
+17	Westling, Gabe	Jr	Mora, Sweden
+Goaltenders
+1	Smith, Cameron	Sr	Westchester, N.Y.
+33	Wieneke, Jack	Jr	Plymouth, Minn.
+31	Winn, Colin	So	Westford, Mass.
+
+# Union
+Defensemen
+15	Chessler, Ollie	So	Watertown, Mass.
+21	Dunbar, Tyler	Sr	Sault Ste. Marie, Mich.
+4	Felicio, Will	Jr	Holden, Mass.
+2	Hart, DJ	Sr	Stamford, Conn.
+7	Henry, Jack	Jr	Skaneateles, N.Y.
+28	Lessard, Etienne	So	Blainville, Que.
+24	OMalley, Brady	Fr	Ann Arbor, Mich.
+5	Rose, Carter	Sr	Brasher Falls, N.Y.
+26	Sharp, Cooper	Fr	Camrose, Alb.
+Forwards
+27	Brueck, Riley	Jr	Chesterfield, Mo.
+33	Buss, Luke	Jr	Columbus, Ohio
+16	Buzziol, Lucas	Jr	Mississauga, Ont.
+11	Cronin, Tommy	So	Edina, Minn.
+20	Falloon, August	So	St. Cloud, Minn.
+13	Free, Nathan	Fr	Calgary, Alb.
+17	Garry, Luke	Fr	Minnetonka, Minn.
+14	Garry, Gavin	Fr	Minnetonka, Minn.
+12	Gulley, Elliot	Fr	Champaign, Ill.
+22	Jeannette, Jacob	Sr	Duluth, Minn.
+9	Laurenza, Alex	So	Woodbridge, Ont.
+18	Markonidis, Lefty	Fr	Hudson, Mass.
+6	Pelton, Troy	So	Clifton Park, N.Y.
+8	Smith, Connor	Jr	Hugo, Minn.
+19	Sutton, Drew	Jr	Hortonville, Wis.
+Goaltenders
+29	Gillespie, Brayden	So	Oakville, Ont.
+30	Holahan, Brendan	So	New Canaan, Conn.
+31	Korpi, Cameron	Jr	South Lyon, Mich.
+
+# Yale
+Defensemen
+22	Bentham, Rhys	Sr	Calgary, Alb.
+23	Blackley, Joe	Jr	Lockport, N.Y.
+20	Forester, Owen	Sr	Mississauga, Ont.
+11	Hooker, Hughie	Jr	Winnipeg, Man.
+4	Hunt, Dylan	So	Marlborough, Mass.
+3	Lasky, Henryk	Fr	London, Great Britain
+6	Miller, Hudson	So	New York, N.Y.
+5	Pesonen, Joose	So	Kuopio, Finland
+24	Virgilio, Matthew	Fr	Vaughan, Ont.
+Forwards
+16	Andreychuk, David	Sr	Los Angeles, Calif.
+19	Assadourian, Alex	Fr	Stouffville, Ont.
+9	Berger, Micah	Jr	Bethesda, Md.
+27	Frias, Donovan	Jr	Hudson, Mass.
+28	Frias, Julian	Jr	Hudson, Mass.
+15	Friedman, Eli	Fr	Rye, N.Y.
+21	Gurkan, Kurt	So	Darien, Conn.
+29	Keeble, Braden	So	Brandon, Man.
+14	Molson, Tom	So	Montréal, Que.
+8	O'Donnell, Ronan	Jr	Fairfield, Conn.
+26	O'Leary, Kyle	Fr	Medfield, Mass.
+13	Pesonen, Iisai	Sr	Kuopio, Finland
+12	Richter, Will	Sr	Greenwich, Conn.
+10	Shannon, James	So	New York, N.Y.
+18	Tanaka-Campbell, Seiya	Sr	Mill Bay, B.C.
+17	Wagnon, Zach	Jr	Red Bank, N.J.
+7	Waterfield, Drew	Fr	Aurora, Ill.
+Goaltenders
+33	Fogg, Jeth	Jr	Colorado Springs, Colo.
+35	Huang, Derrick	Fr	Carlisle, Mass.
+31	Pak, Noah	Sr	Oakville, Ont.
+1	Stark, Jack	Sr	Chaska, Minn.
+
+# Boston College
+Defensemen
+11	Beauchesne, Quinn	Fr	Ottawa, Ont.
+6	Grimes, Matthew	Fr	Locust Valley, N.Y.
+27	Joyce, Nolan	Sr	Dedham, Mass.
+2	Kostadinski, Kristian	So	Göteborg, Sweden
+5	Mallgrave, Teddy	So	Summit, N.J.
+26	Radivojevic, Luka	So	Edina, Minn.
+10	Schairer, Luke	Fr	Milwaukee, Wis.
+24	Woodall, Carson	Fr	Belle River, Ont.
+Forwards
+36	Conmy, Ryan	Sr	Alexandria, Va.
+28	Delay, Timmy	Sr	Hingham, Mass.
+9	Hemming, Oscar	So	Vaasa, Finland
+23	Kudrick, Brady	Fr
+29	Letourneau, Dean	Jr	Braeside, Ont.
+40	Moore, Will	So	Mississauga, Ont.
+15	Murnieks, Olivers	Fr	Riga, Latvia
+19	Mutryn, Casey	Fr	Norwell, Mass.
+18	Mutryn, Teddy	Fr	Norwell, Mass.
+8	Pelletier, Alex	Fr	Granby, Conn.
+14	Resendes, Landan	So	Marlborough, Mass.
+12	Sondreal, Jake	Jr	Woodbury, Minn.
+4	Stiga, Teddy	Jr	Sudbury, Mass.
+37	Vanhanen, Matias	Fr	Nokia, Finland
+22	Vote, Will	Sr	Arlington, Mass.
+Goaltenders
+1	Cloutier, Louka	So	Sherbrooke, Que.
+20	Henriquez, Leo	Fr	Bratislava, Slovakia
+30	Korec, Jan	Sr	Bratislava, Slovakia
+31	Musielak, Alex	Sr	Buffalo, N.Y.
+
+# Boston University
+Defensemen
+15	Amico, Carter	So	Westbrook, Maine
+5	Barone, Adam	Jr	Sault Ste. Marie, Ont.
+22	Celebrini, Aiden	Sr	Vancouver, B.C.
+14	Frechette, Mick	Sr	Weston, Mass.
+91	Trethewey, Charlie	So	Ellicott City, Md.
+72	Villeneuve, Xavier	Fr	Laval, Que.
+61	Wang, Haoxi (Simon)	Fr	Beijing, China
+9	Wismer, Jax	Jr	Newmarket, Ont.
+Forwards
+81	Aaram-Olsen, Niklas	Fr	Oslo, Norway
+38	Bednarik, Kamil	Jr	Elmhurst, Ill.
+18	Feldberg, Jay	So	Toronto, Ont.
+16	Fondrk, Conrad	So	St. Paul, Minn.
+12	Harvey, Jack	Sr	Stacy, Minn.
+11	Lawrence, Tynan	So	Fredericton, N.B.
+27	Malhotra, Caleb	Fr	Toronto, Ont.
+25	Merrill, Ben	So	Hingham, Mass.
+10	Morello, Jonathan	So	Toronto, Ont.
+19	Murtagh, Jack	So	East Greenbush, N.Y.
+13	Nörringer, Viktor	Fr	Kungsbacka, Sweden
+21	Ritchie, Ryder	So	Calgary, Alb.
+7	Roukounakis, Nick	Jr	Marshfield, Mass.
+8	Svoboda, Brandon	Jr	Pittsburgh, Pa.
+Goaltenders
+30	Dhami, Sartaj	Fr	Calgary, Alb.
+33	Lacroix, Max	Sr	Castle Pines, Colo.
+1	Luciano, Steven	So	New Canaan, Conn.
+40	Yegorov, Mikhail	Jr	St. Petersburg, Russia
+
+# Connecticut
+Defensemen
+28	Allain Samake, Anthony	So	Gatineau, Que.
+2	Dunphy, Brendan	So	San Diego, Calif.
+11	Janviriya, Kai	Jr	Bloomfield, Mich.
+0	McIsaac, William	Fr	Vancouver, B.C.
+0	Morrison, Charlie	Fr	Miramichi, N.B.
+0	Reese, Jacob	Fr	Boston, N.Y.
+21	Scott, Trey	Jr	Lunenburg, Mass.
+34	Simpson, Owen	Sr	Toronto, Ont.
+0	Smith, Braydan	Fr	Prince Albert, Sask.
+Forwards
+0	Alstead, Brittan	Fr	Plymouth, Minn.
+0	Amidovski, Lirim	Fr	Alliston, Ont.
+22	Blais, Alexandre	So	Longueuil, Que.
+0	Davis, Cole	Fr	Sutton, Ont.
+24	Dezainde, Carlin	So	Calgary, Alb.
+0	Frank, Colin	Fr	Ladera Ranch, Calif.
+13	Gardula, Ethan	Jr	Princeton, Mass.
+0	Heslop, Jesse	Fr	Nanaimo, B.C.
+86	Loranger, Jeremy	So	Trois-Rivières, Que.
+8	Muldowney, Joey	Sr	Lake View, N.Y.
+26	Murtagh, Mike	Jr	East Greenbush, N.Y.
+27	Odyniec, Joseph	So	Washington, D.C.
+19	Richard, Jake	Sr	Jacksonville, Fla.
+20	Shahan, Kaden	Jr	Everett, Wash.
+12	Sproule, Carter	So	Grand Forks, N.D.
+71	Whitcomb, Ethan	Jr	St. Catharines, Ont.
+Goaltenders
+1	Hendrickson, Kam	So	Chanhassen, Minn.
+0	Louhivaara, Veeti	Fr	Jyväskylä, Finland
+31	Sanborn, Ryan	So	Brookfield, Conn.
+
+# Maine
+Defensemen
+6	Bales, Alexander	Jr	East Amherst, N.Y.
+25	Krebs, Dru	Fr	Okotoks, Alb.
+17	Lafton, Ludvig	Fr	Bærum, Norway
+7	Langlois, Jeremy	So	Ste-Brigitte-de-Laval, Que.
+21	Parekh, Isa	Jr	Toronto, Ont.
+2	Peterson, Lukas	So	Waldwick, N.J.
+4	Romaine, Chris	Jr	Boston, Mass.
+13	Siciliano, Dante	Fr	Whitby, Ont.
+16	Usereau, Loic	So	Saint-Michel, Que.
+Forwards
+33	Alfano, Samuel	So	Hamilton, Ont.
+26	Calvert, Rowan	Fr	Moose Jaw, Sask.
+15	Campbell, Ross	Fr	Souris, P.E.I.
+28	Fleece, Masun	Fr	Rolling Hills, Calif.
+12	Fowler, Owen	Gr	Tewksbury, Mass.
+22	Gerrior, William	So	Halifax, N.S.
+24	James, Brock	So	Falmouth, Maine
+20	Klimpke, Tanner	Sr	Calgary, Alb.
+38	Komarov, Oskar	Jr	Uusikaarlepyy, Finland
+41	Lipinski, Jaden	So	Scottsdale, Ariz.
+18	Makway, Judah	So	Trail, B.C.
+23	Parks, Lee	Jr	Stittsville, Ont.
+29	Pichette, Thomas	Jr	Maskinongé, Que.
+11	Russell, Charlie	Sr	Skaneateles, N.Y.
+14	Scholle, Sully	Sr	Chaska, Minn.
+27	Scott, Max	Sr	San Jose, Calif.
+Goaltenders
+30	Boija, Albin	Sr	Sundsvall, Sweden
+32	Ronan, Colin	Jr	Saugus, Mass.
+31	Wickström Stumer, Petter	Jr	Stockholm, Sweden
+
+# Mass.-Lowell
+Defensemen
+2	Buchbinder, Daniel	Jr	Clarence Center, N.Y.
+9	Dowd, Anthony	Sr	Point Pleasant Beach, N.J.
+6	Johnson, James	So	Ajax, Ont.
+18	Kilcullen, Sean	Sr	Kensington, Md.
+24	Kroll, Ryan	So	Plainfield, Ill.
+11	Mathurin, Tnias	So	Ajax, Ont.
+13	Misskey, Nate	So	Melfort, Sask.
+22	Mori, Josh	So	Richmond, B.C.
+27	Payne, Dominic	Jr	North Vancouver, B.C.
+Forwards
+15	Adaszynski, David	So	Burnaby, B.C.
+0	Busch, Lucas	Fr	Maple Grove, Minn.
+10	Delaney, Chris	Jr	Hopkinton, Mass.
+7	Lonsdale, Cole	So	Mississauga, Ont.
+26	MacDonald, Jacob	Jr	Fort Worth, Texas
+0	McGraw, Joseph	Fr	Sugar Land, Texas
+8	Moriello, Jaiden	Sr	Saugus, Mass.
+20	Nemec, Libor	Jr	Bardejov, Slovakia
+19	Pitka, Tobias	So	Poprad, Slovakia
+3	Rivelli, Dominick	Fr	Highland Park, Ill.
+0	Sisson, Kolin	Fr	Lincoln, R.I.
+29	Vaarwerk, Jak	Sr	East Amherst, N.Y.
+0	Volotovskii, Misha	Fr	Calgary, Alb.
+14	Wakely, Dalyn	So	Port Hope, Ont.
+0	Wellenreiter, Nicholas	Fr	Dundas, Ont.
+Goaltenders
+31	Elliott, Austin	So	Strathmore, Alb.
+30	Goich, Niko	So	Homer Glen, Ill.
+34	Moore, Cole	Sr	Toronto, Ont.
+
+# Massachusetts
+Defensemen
+0	Alalauri, Samu	Fr	Lahti, Finland
+23	Dell'Elce, Francesco	Jr	King City, Ont.
+0	Dexheimer, Barrett	Fr	Edina, Minn.
+2	Hanrahan, Coleson	So	Longmeadow, Mass.
+18	Keenan, Larry	Jr	Midhurst, Ont.
+21	Lieberman, Charlie	Jr	Naperville, Ill.
+13	Nycz, Landon	So	Detroit, Mich.
+0	Taillefer, Mathieu	Fr	Richelieu, Que.
+Forwards
+0	Barabanov, Egor	Fr	St. Petersburg, Russia
+37	Cornforth, Gavin	So	Boston, Mass.
+0	Curran, Max	Fr	Praha, Czech Republic
+19	DeAngelo, Mikey	Jr	Itasca, Ill.
+25	Dunn, Cam	Jr	Holland, Mich.
+10	Galanek, Jack	So	Hopkinton, Mass.
+17	Jencko, Daniel	Jr	Humenne, Slovakia
+15	Kerr, Justin	So	Grand Rapids, Minn.
+12	Klecka, Lukas	So	Bratislava, Slovakia
+0	Kuhta, Jasper	Fr	Helsinki, Finland
+0	Massé, Maxim	Fr	Rimouski, Que.
+26	McNelis, John	So	Potomac, Md.
+9	Musa, Jack	Sr	Orange Park, Fla.
+11	Nestrasil, Vaclav	So	Praha, Czechia
+0	Novotny, Melvin	Fr	Täby, Sweden
+8	O'Neill, Cam	Sr	Odenton, Md.
+Goaltenders
+0	Eskit, Ethan	Fr	Calgary, Alb.
+1	Irving, Jackson	Sr	Newbury, Mass.
+0	Trejbal, Tobias	Fr	Most, Czech Republic
+
+# Merrimack
+Defensemen
+7	Beyer, Ethan	So	Philadelphia, Pa.
+3	Brunet, Simon-Pier	Fr	Gatineau, Que.
+9	Doyle, Tristen	Fr	Winnipeg, Man.
+8	Green, David	Fr	Toronto, Ont.
+2	King, Nathan	Jr	Victoria, B.C.
+17	Kungle, Cam	Jr	Red Deer, Alb.
+24	Oravetz, Austin	Sr	Canonsburg, Pa.
+5	Orrey, Keaton	Fr	Inver Grove Heights, Minn.
+4	Powell, Seamus	Sr	Marcellus, N.Y.
+Forwards
+6	Astapovich, Daniel	So	Birmingham, Mich.
+21	Cranston, Caden	Jr	Rochester, N.Y.
+22	Dale, Connor	Fr	St. Albert, Alb.
+16	Daneault, Ty	Sr	Red Deer, Alb.
+26	Emerson, Michael	Sr	Yorktown Heights, N.Y.
+29	Fitzpatrick, Caelan	Jr	Moose Jaw, Sask.
+20	Flamand, Nolan	So	Saskatoon, Sask.
+15	Frasca, Jacob	Fr	Brampton, Ont.
+23	Gill, Justin	So	St-Joseph-du-Lac, Que.
+19	Hes, Jakub	Fr	Zlin, Czechia
+10	Hoskin, Trevor	Jr	Belleville, Ont.
+27	Lachance, Mavrick	Fr	St-Gédéon, Que.
+12	Lalonde, Parker	So	Aberdeen, Sask.
+25	Mercier, Alex	Fr	L'Ancienne-Lorette, Que.
+28	O'Connell, Ryan	Jr	Moorestown, N.J.
+11	Pierre, Nick	Jr	Cottage Grove, Minn.
+Goaltenders
+30	Durkin, Charles	Fr	Glencoe, Ill.
+88	Feldbergs, Linards	Fr	Ogre, Latvia
+31	Keyes, Ryan	Jr	Fairbanks, Alaska
+
+# New Hampshire
+Defensemen
+2	Carr, Alex	So	Sackville, N.S.
+72	de Haro, Conner	So	Raleigh, N.C.
+19	Fitzgerald, Brendan	Sr	North Reading, Mass.
+5	Hahn, Zach	Sr	Huntington, N.Y.
+0	Kennedy, Wyatt	Fr	Ottawa, Ont.
+4	Philbrick, Ryan	So	Concord, N.H.
+15	Plandowski, Oscar	Jr	Red Deer, Alb.
+57	Vass, Malte	So	Karlstad, Sweden
+0	Von Richter, Parker	Fr	Mississauga, Ont.
+Forwards
+0	Bradshaw, Sebastian	Fr	Newtonville, Ont.
+11	DeTurris, Connor	So	Naperville, Ill.
+22	Gagnon, Felix	So	Saguenay, Que.
+0	Guité, Émile	Fr	Chambly, Que.
+0	Hyles, Kole	Fr	Newfields, N.H.
+16	Johnson, Ryan	Jr	Calgary, Alb.
+6	Lavins, Marty	Sr	Riga, Latvia
+61	MacDonald, Cam	Jr	Toronto, Ont.
+91	Newcombe, Jacob	So	Halifax, N.S.
+47	Oliver, Sam	So	Quispamsis, N.B.
+37	Ring, Nick	Sr	Hingham, Mass.
+0	Romeo, Nicky	Fr	New City, N.Y.
+23	Siedem, Jason	Sr	Madison, N.J.
+11	Svartstrom, Rasmus	So	Helsinki, Finland
+16	Turner, J.P.	Sr	East Falmouth, Mass.
+22	VanTassell, Nick	Sr	Basking Ridge, N.J.
+10	Walsh, Ronan	Sr	Andover, N.H.
+0	Zebeski, Mason	Fr	Oakville, Ont.
+Goaltenders
+0	Carney, Stefan	Fr	Wheeling, Ill.
+1	Coombs, Kristian	So	Calgary, Alb.
+33	Kendrick, Teagan	So	St. Albert, Alb.
+31	Simpson, Michael	So	London, Ont.
+
+# Northeastern
+Defensemen
+33	Jones, Noah	So	Bridgewater, N.J.
+15	Kearsey, Marcus	Fr	Deer Lake, Newf.
+44	Keefe, Owen	Fr	Saugus, Mass.
+5	Kjellberg, Joel	Jr	Nacka, Sweden
+91	Laberge, Noah	Fr	St-Bruno-de-Montarville, Que.
+2	Lemay, Joaquim	Gr	St-Pierre-les-Becquets, Que.
+18	O'Keeffe, Liam	Fr	Boston, Mass.
+4	Pineau, Alex	Sr	Thunder Bay, Ont.
+49	Tourigny, Jordan	Fr	Québec, Que.
+Forwards
+6	Badger, Grayson	So	Hyde Park, Mass.
+14	Connor, Joe	Jr	Amherst, N.H.
+9	Fukakusa, Tyler	Sr	Toronto, Ont.
+3	Hajibi, Amine	So	Montréal, Que.
+10	Jefferis, Trey	Fr	Hummelstown, Pa.
+19	Lund, Marc	Jr	Edina, Minn.
+92	Maltais, Matthew	So	St-Basile-le-Grand, Que.
+88	Marques, Miguel	So	Prince George, B.C.
+22	Martino, Giacomo	So	Toronto, Ont.
+81	Mathieu, Jacob	So	St-Odilon-de-Cranbourne, Que.
+7	Moore, Andy	Sr	Cumberland, Maine
+13	Pardue, Charlie	So	Winnetka, Ill.
+21	Pechar, Jack	So	Niskayuna, N.Y.
+8	Perkins, Matthew	Sr	Balgonie, Sask.
+11	Sebastian, Eli	Sr	Burlington, Ont.
+23	Sharkey, Dawson	Fr	Souris, P.E.I.
+Goaltenders
+37	Caulfield, Sam	Fr	Needham, Mass.
+70	DellaRusso, Matt	So	Darien, Conn.
+47	Zacher, Lawton	Sr	Buffalo, N.Y.
+
+# Providence
+Defensemen
+4	Baldwin, Everett	Fr	Providence, R.I.
+23	Centrella, Andrew	Sr	Philadelphia, Pa.
+20	Christenson, Cade	Jr	Edmonton, Alb.
+3	Laferriere, Jack	Fr	Chatham, N.J.
+2	Machu, Tomas	Jr	Ostrava, Czechia
+24	Mantei, Quinn	So	Weyburn, Sask.
+28	Masa, Martin	So	Brno, Czechia
+10	McCoy, Donovan	So	Belleville, Ont.
+27	Rybakov, Alex	So	Chelyabinsk, Russia
+Forwards
+19	Adams, Tanner	Sr	Northport, N.Y.
+13	Cali, Ryder	Fr	Lugano, Switzerland
+15	Elger, Will	Jr	Westerville, Ohio
+16	Fauchon, Jonathan	So	Ste-Claire-de-Bellechasse, Que.
+11	Gamache, Graham	Sr	Edmonton, Alb.
+17	Jelsma, Beau	So	London, Ont.
+14	Kivioja, Aleksi	Jr	Helsinki, Finland
+18	Klippenstein, Carter	Fr	Lethbridge, Alb.
+22	Levens, Clint	Sr	Windermere, Fla.
+8	Monteiro, JJ	Fr	Hudson, Mass.
+21	Mustard, John	Jr	Oradell, N.J.
+34	Sawyer, Logan	Jr	Orangeville, Ont.
+26	Sumpf, Julius	So	München, Germany
+37	Vandenberg, Thomas	Fr	Nepean, Ont.
+12	Zielinski, Blake	Fr	Berlin, N.J.
+Goaltenders
+31	Homer, Gibson	Gr	Grand Rapids, Mich.
+33	Matthews, Aaron	So	Newton, Mass.
+30	Parsons, Jack	So	Ithaca, N.Y.
+
+# Vermont
+Defensemen
+4	Fimis, Andoni	Fr	Richmond Hill, Ont.
+7	Forgione, Peter	So	Burlington, Vt.
+20	Hagens, Michael	Jr	Hauppauge, N.Y.
+23	Jesus, David	Jr	Toronto, Ont.
+25	Malinski, Jack	Sr	Lakeville, Minn.
+5	Plante, Mathieu	Fr	Québec, Que.
+27	Ramsay, Duncan	Sr	Halifax, N.S.
+2	Teply, Matej	Fr	Stamford, Conn.
+38	Törnqvist, Sebastian	Sr	Gothenburg, Sweden
+Forwards
+12	Aegerter, Jonah	So	Janesville, Wis.
+29	Burroughs, Ethan	Jr	Oakville, Ont.
+16	Dysart, Tyler	So	Sunnyvale, Calif.
+11	Filak, Zachary	So	Northville, Mich.
+37	Garvey, Cameron	Jr	Oakville, Ont.
+19	Guindon, Cedrick	So	Rockland, Ont.
+17	Kessler, Colin	Jr	Anchorage, Alaska
+9	La Starza, Michael	Jr	Montréal, Que.
+22	Lacerte, Felix	Fr	Trois-Rivières, Que.
+18	Loiselle, Mathias	Fr	St-Jean-sur-Richelieu, Que.
+28	Michels, Matteo	So	Colleyville, Texas
+24	Renkowski, Logan	Fr	Nesconset, N.Y.
+21	Sambuco, Daniel	Sr	Springfield, Pa.
+15	Springer, Cam	Fr	Dexter, Mich.
+13	Steenerson, Blake	Jr	Maple Grove, Minn.
+10	Strand, Max	Jr	Roseau, Minn.
+Goaltenders
+39	Oster, Jacob	So	Manotick, Ont.
+32	Silverstein, Dylan	Jr	Calabasas, Calif.
+34	Wright, Aiden	So	Wake Forest, N.C.
+
+# Arizona State
+Defensemen
+5	Baran, Richard	So	Bratislava, Slovakia
+8	Brown, Rylan	Jr	Sherwood Park, Alb.
+3	Hady, Hunter	Jr	Rochester, Minn.
+11	Kuehne, Lincoln	So	Fargo, N.D.
+21	Mayich, Matthew	So	Stoney Creek, Ont.
+73	Mullett, Hunter	Jr	Hartland, Wis.
+33	Nordberg, Filip	So	Stockholm, Sweden
+4	Willson, Jack	Fr	Northville, Mich.
+44	Woo, Jonas	Fr	Winnipeg, Man.
+Forwards
+89	Achille, Tony	Sr	Hingham, Mass.
+13	Barron, Michael	Fr	Canton, Mich.
+2	Beck, Jack	So	Richmond Hill, Ont.
+92	Behm, Nathan	Fr	Calgary, Alb.
+7	Chin-DeGraves, Nicholas	Jr	Edmonton, Alb.
+10	Hafele, Landon	Fr	Fairbanks, Alaska
+22	Houde, Olivier	So	Dosquet, Que.
+48	Kevan, Benjamin	So	Fairfield, Calif.
+20	Littler, Cade	Jr	East Wenatchee, Wash.
+16	McGurn, Sean	Sr	Ottawa, Ont.
+17	Merrill, Teddy	Fr	Scottsdale, Ariz.
+19	Morrell, Logan	Jr	Mesa, Ariz.
+18	Muthersbaugh, Ben	Jr	Gilford, N.H.
+9	O'Brien, Jack	Jr	Denver, Colo.
+95	Sawchyn, Lukas	Fr	Grande Prairie, Alb.
+47	Shlaine, Daniel	So	Moskva, Russia
+25	Smolen, Kyle	Sr	Crystal Lake, Ill.
+Goaltenders
+30	Hamm, Chase	Sr	Saskatoon, Sask.
+29	Hillebrandt, Sam	So	Port Huron, Mich.
+31	Urban, Samuel	So	Dolne Kockovce, Slovakia
+
+# Colorado College
+Defensemen
+15	Baer, Nick	Jr	Minnetonka, Minn.
+7	Blais-Savoie, Philippe	Jr	San Jose, Calif.
+4	Burkholder, Max	Sr	Chaska, Minn.
+3	Constance, Seth	Jr	Northville, Mich.
+0	Jones, Blake	Fr	Winnipeg, Man.
+5	Koering, Ryan	Jr	Eden Prairie, Minn.
+23	Lindgren, Mats	So	North Vancouver, B.C.
+6	Roberts, Colton	So	Ridge Meadows, B.C.
+18	Scott, Fisher	Jr	Carbondale, Colo.
+0	Shirey, Aidan	Fr	Barrington, Ill.
+Forwards
+9	Beckner, Owen	Jr	Victoria, B.C.
+26	Bjorck, Wilson	So	Stockholm, Sweden
+22	Brisson, Jordan	Jr	Manhattan Beach, Calif.
+14	Crandell, Carmelo	So	St. Albert, Alb.
+0	Halaburda, Ty	Fr	Victoria, B.C.
+14	Hvidston, Connor	So	Tisdale, Sask.
+12	Kozlina, Shane	So	Cranberry Township, Pa.
+10	Link, Bret	Sr	Anchorage, Alaska
+8	Lisowsky, Brandon	So	Port Coquitlam, B.C.
+29	Montgomery, Drew	Sr	Grand Forks, N.D.
+19	Mrsic, Mateo	So	Cloverdale, B.C.
+17	Mrsic, Tomas	So	Surrey, B.C.
+0	Olsen, Zac	Fr	Calgary, Alb.
+0	Pighin, Coy	Fr	Nanton, Alb.
+28	Schuurman, Brayden	So	Abbotsford, B.C.
+25	Stuart, Riley	Sr	Phoenix, Ariz.
+24	Veinbergs, Klavs	Sr	Riga, Latvia
+0	Vitali, Sebastian	Fr	Brooklyn, N.Y.
+Goaltenders
+1	Dempsey, Beckham	So	Wayne, Ill.
+0	Pradel, Michal	Fr	Dolny Kubin, Slovakia
+30	Unger, Jackson	So	Calgary, Alb.
+
+# Denver
+Defensemen
+3	Ashcroft, Cale	Sr	St. Albert, Alb.
+38	Fiddler, Blake	Fr	Nashville, Tenn.
+15	Jamieson, Eric	So	Calgary, Alb.
+4	Lin, Ryan	Fr	Richmond, B.C.
+20	MacBeath, Ben	Fr	Calgary, Alb.
+2	Pitner, Tory	Jr	El Cerrito, Calif.
+11	Rudolph, Daxon	Fr	Lacombe, Alb.
+6	Whipple, Alec	Jr	Excelsior, Minn.
+Forwards
+9	Berchild, Michael	Fr	Excelsior, Minn.
+25	Caswell, Clarke	So	Brandon, Man.
+24	Cebrian, Kieran	Sr	Denver, Colo.
+16	Chyzowski, Kyle	So	Surrey, B.C.
+8	Epperson, Kristian	So	Mequon, Wis.
+19	Fisher, Jake	Jr	Woodbury, Minn.
+12	Harris, Sam	Sr	San Diego, Calif.
+14	Heise, Max	Fr	Calgary, Alb.
+22	McMorrow, Brendan	So	Lakeville, Minn.
+17	Milburn, Brady	So	Kamloops, B.C.
+23	Miller, Ryan	Fr	Medicine Hat, Alb.
+18	Nelson, Payton	So	Centennial, Colo.
+10	Pridham, Jack	Fr	Stouffville, Ont.
+27	Reeder, James	Jr	Glenview, Ill.
+28	Varkonyi, Reid	So	Sherwood Park, Alb.
+Goaltenders
+30	Geisel, Paxton	Sr	Estevan, Sask.
+31	Hicks, Johnny	So	Kamloops, B.C.
+35	Krivtsov, Tyler	Jr	Santa Clarita, Calif.
+
+# Miami
+Defensemen
+9	Hamilton, Jack	Fr	Powell, Ohio
+11	Helledy, David	Jr	Milwaukee, Wis.
+17	Huston, Cal	Fr	Youngstown, Ohio
+71	Lukashevich, Vladislav	Fr	Magadan, RUS
+2	McEwen, Shaun	So	Hadley, Mass.
+73	Phelan, Michael	So	Hinsdale, Ill.
+5	Runtso, Timmy	Fr	Marina del Rey, Calif.
+43	Thompson, Ryder	So	Russell, Man.
+22	Vukas, Branko	Fr	Dyer, Ind.
+Forwards
+27	Baker, Austin	So	White Lake Township, Mich.
+12	Blanchard, Chuck	Fr	West Hartford, Conn.
+13	Delic, Kocha	So	Ottawa, Ont.
+20	Deputy, David	So	Gurnee, Ill.
+8	Emmons, John	Jr	Washington, Mich.
+91	Giampa, Matteo	Sr	Virgil, Ont.
+19	Grimes, Doug	Sr	Brookline, Mass.
+68	Hay, Ethan	So	Waterloo, Ont.
+23	Kucharcik, Matous	Fr	Vipiteno, ITA
+4	Loomer, Layne	Fr	Lethbridge, Alb.
+10	Mikan, Nicholas	Jr	Edina, Minn.
+18	Morozov, Ilia	So	Moskva, Russia
+37	Seelinger, Ryan	Fr	Downers Grove, Ill.
+14	Smith, Ryan	Jr	Pendleton, N.Y.
+21	Walker, Bradley	So	Orono, Minn.
+Goaltenders
+45	Drobac, Matteo	Jr	Oakville, Ont.
+29	Motew, Benji	So	Glencoe, Ill.
+72	Yegorov, Yegor	Fr	Moskva, Russia
+
+# Minnesota-Duluth
+Defensemen
+5	Cleveland, Brady	Sr	Wausau, Wis.
+2	Hanson, Ty	Jr	Hermantown, Minn.
+6	Kleber, Adam	Jr	Chaska, Minn.
+28	McInnis, Keith	Fr	Red Deer, Alb.
+34	Murphy, Carter	Fr	The Woodlands, Texas
+8	Pionk, Aaron	Sr	Hermantown, Minn.
+37	Siepmann, Grayden	So	Windsor, Ont.
+3	Toll, Jake	So	Rosemount, Minn.
+Forwards
+11	Anderson, Hunter	So	Manhattan Beach, Calif.
+25	Arnott, Callum	Jr	King City, Ont.
+16	Bechen, Blake	Jr	Dubuque, Iowa
+19	Bentz, Harper	Jr	Moorhead, Minn.
+20	Bibby, Luke	So	Brantford, Ont.
+21	Fischer, Braden	Sr	Winnipeg, Man.
+15	Hall, Barrett	Sr	Apple Valley, Minn.
+12	Kohanski, Kade	Fr	Hermantown, Minn.
+10	Plante, Max	Jr	Hermantown, Minn.
+27	Plante, Zam	Jr	Hermantown, Minn.
+44	Plante, Victor	Fr	Hermantown, Minn.
+24	Platter, Peyton	Jr	Eau Claire, Wis.
+17	Shaugabay, Jayson	Jr	Warroad, Minn.
+39	Stachowiak, Trevor	Jr	Dallas, Texas
+22	Zaremba, Ryan	So	Balgonie, Sask.
+Goaltenders
+38	Axelsson, Curtis	Fr	Danderyd, Sweden
+35	Dahlmeir, Ethan	Jr	Lakeville, Minn.
+32	Sheffield, Cole	So	London, Ont.
+
+# North Dakota
+Defensemen
+74	Boser, Brasen	Jr	Minot, N.D.
+0	Carels, Carson	Fr	Cypress River, Man.
+6	Dumanski, Bauer	Fr	Drake, Sask.
+6	Emery, EJ	Jr	Compton, Calif.
+13	Laurila, Sam	So	Moorhead, Minn.
+0	Lindberg, Garrett	Fr	Moorhead, Minn.
+0	MacKenzie, Ethan	Fr	West Kelowna, B.C.
+18	Verhoeff, Keaton	So	Fort Saskatchewan, Alb.
+Forwards
+19	Croal, Cody	Jr	North Branch, Minn.
+0	Davis, Connor	Fr	Vaudreuil-Dorion, Que.
+8	Josephson, Ollie	So	Victoria, B.C.
+15	Kernan, Jack	So	Maple Grove, Minn.
+20	Lindberg, Gavin	Jr	Fergus Falls, Minn.
+28	Magnussen, Kasper	Sr	Düsseldorf, Germany
+9	Malinoski, Hudson	Sr	Saskatoon, Sask.
+27	Menghini, Anthony	Sr	Brainerd, Minn.
+17	Reschny, Cole	So	Macklin, Sask.
+0	Schultz, Brock	Fr	East Grand Forks, Minn.
+0	Schultz, Ashton	Fr	Excelsior, Minn.
+0	Simpson, Cooper	Fr	Shakopee, Minn.
+7	Swanson, Mac	Jr	Anchorage, Alaska
+24	Zakreski, Josh	So	Saskatoon, Sask.
+9	Zellers, Will	So	Maple Grove, Minn.
+Goaltenders
+0	Heil, Caleb	Fr	Victoria, Minn.
+1	Sandy, Zach	Sr	Fargo, N.D.
+0	Scheiwiller, Alexander	Fr	Calgary, Alb.
+35	Spunar, Jan	So	Olomouc, Czech Republic
+
+# Omaha
+Defensemen
+83	Berge, Parker	Fr	Edmonton, Alb.
+8	Broberg, Marcus	Jr	Örebro, Sweden
+3	Jubenvill, Jayden	Jr	Gilbert Plains, Man.
+24	Lajoie, Marc	Jr	St. Albert, Alb.
+43	Marchenko, Arseni	Fr	Minsk, Belarus
+6	McCleary, Ryan	Sr	Swift Current, Sask.
+59	Sotheran, Carter	Fr	Sanford, Man.
+44	Sova, Spencer	So	Windsor, Ont.
+Forwards
+9	Briere, Cameron	So	Oakville, Ont.
+42	Desjardins, Vincent	Fr	Mirabel, Que.
+18	Hilman, Myles	Jr	Blackfalds, Alb.
+22	Hjelm, Lincoln	Fr	Omaha, Neb.
+17	Hodnett, Gavin	Fr	Winnipeg, Man.
+71	Hyland, Brett	Jr	Edmonton, Alb.
+39	Lavigne, Maël	Fr	Neuville, Que.
+72	Nguyen, Marcus	So	Calgary, Alb.
+15	Oiring, Aiden	Fr	Calgary, Alb.
+23	Pellerin, Maxime	Jr	Victoriaville, Que.
+27	Plante, Joel	So	Langley, B.C.
+19	Tschigerl, Sean	Jr	Whitecourt, Alb.
+38	Wong, Trevor	Jr	Vancouver, B.C.
+12	Woodworth, Luke	So	Bridgewater, N.S.
+7	Wormald, Logan	Fr	Langley, B.C.
+Goaltenders
+73	Cowan, Dawson	So	Warren, Man.
+1	Craig, Will	Sr	Ennismore, Ont.
+35	Lacelle, William	Fr	Gatineau, Que.
+
+# St. Cloud State
+Defensemen
+3	Belisle, Joseph	So	Hugo, Minn.
+25	Byfuglien, Thor	Jr	Roseau, Minn.
+0	Frazer, Garrett	Fr	Haymarket, Va.
+24	McLaughlin, Finn	So	Canmore, Alb.
+5	Napier, Jacob	Sr	Lancaster, N.Y.
+0	Sharpe, Will	Fr	Delta, B.C.
+0	Stevenson, Nolan	Fr	Shaunavon, Sask.
+0	Uljanskis, Darels	Fr	Riga, Latvia
+Forwards
+41	Ahlrik, William	Jr	Tidaholm, Sweden
+0	Hirschfeld, John	Fr	St. Cloud, Minn.
+24	Lurie, Charlie	Sr	Minnetonka, Minn.
+0	Paddington, E.J.	Fr	Thunder Bay, Ont.
+0	Paupanekis, Hayden	Fr	Winnipeg, Man.
+0	Pilgrim, Carson	Fr	Warroad, Minn.
+7	Reimann, Jack	Sr	Ham Lake, Minn.
+22	Roed, Nolan	So	White Bear Lake, Minn.
+26	Sluys, Jamison	So	Point Roberts, Wash.
+0	Souch, Brock	Fr	Edmonton, Alb.
+0	Southgate, Jake	Sr	North Battleford, Sask.
+28	Thoreson, Gavyn	Jr	Andover, Minn.
+10	Urness, Noah	So	Roseau, Minn.
+0	Vigfusson, Adam	Fr	Gimli, Man.
+18	Welch, Aiden	So	White Bear Lake, Minn.
+Goaltenders
+39	Berzins, Patriks	Jr	Sabile, Latvia
+0	McElroy, Mason	Fr	St. Michael, Minn.
+1	Shostak, Yan	So	Minsk, Belarus
+
+# St. Thomas
+Defensemen
+16	Berry, Bauer	So	Grand Forks, N.D.
+26	Cheslock, Chase	Sr	Rogers, Minn.
+12	Groebner, Sam	Jr	Apple Valley, Minn.
+8	Huff, Luken	Fr	Mazama, Wash.
+6	Kipkie, Justin	So	Calgary, Alb.
+4	Miller, Cole	Sr	Littleton, Colo.
+10	Poolman, Mason	Sr	East Grand Forks, Minn.
+20	Williams, Nick	Sr	Edina, Minn.
+Forwards
+14	Altrichter, Jakub	Jr	Praha, Czech Republic
+21	Anderson, Kevin	Gr	Regina, Sask.
+12	Collard, Vincent	Fr	Saguenay, Que.
+28	Godbout, Dylan	Sr	Woodbury, Minn.
+11	Grossklaus, Aiden	Fr	Woodbury, Minn.
+9	Hawkins, Rhett	Fr	St. Louis, Mo.
+25	Lippai, Attila	So	St. Paul, Minn.
+27	ONeill, Andrew	Fr	Fargo, N.D.
+29	Pilling, Nathan	So	Calgary, Alb.
+18	Potulny, Jackson	Fr	Maple Grove, Minn.
+17	Rozsival, David	Fr	Liberec, Czechia
+22	Rudrud, Quinn	Gr	Farmington, Minn.
+19	Stengrim, Kade	Fr	Brainerd, Minn.
+13	Van Vliet, Lucas	So	Livonia, Mich.
+7	Wallace, Winter	Gr	Boulder, Colo.
+Goaltenders
+1	Ingemann, William	So	Plymouth, Minn.
+32	Musser, Carsen	Sr	Fairmont, Minn.
+35	White, Ajay	Fr	Bryn Mawr, Pa.
+
+# Western Michigan
+Defensemen
+15	Calbeck, Alex	So	St. Charles, Ill.
+3	Crusberg-Roseen, Cole	Sr	Stratham, N.H.
+23	Engle, Edison	Fr	Arlington Heights, Ill.
+2	Neumeier, Michael	Jr	Kerrobert, Sask.
+10	Sharp, Zack	Jr	Naperville, Ill.
+27	Vaisanen, Joona	Jr	Espoo, Finland
+6	Wallberg, Theo	Sr	Stockholm, Sweden
+14	Woogk, Colby	So	Fort Worth, Texas
+Forwards
+9	Benak, Adam	Fr	Plzen, Czech Republic
+19	Cowan, Bobby	So	Edina, Minn.
+22	Hakkarainen, Iiro	Jr	Helsinki, Finland
+17	Henricks, Ty	Jr	Mission Viejo, Calif.
+12	Huck, Sam	So	Calgary, Alb.
+13	Keller, Jordan	Fr	Sapporo, Japan
+16	Lafrenière, Tommy	Fr	St-Sauveur, Que.
+28	Laylin, Casy	Jr	Sierre, SUI
+11	MacKenzie, Tyler	So	Red Deer, Alb.
+26	Mason, Ty	Fr	Weyburn, Sask.
+21	McNamara, Luke	Fr	Mississauga, Ont.
+8	Nehring, Zach	Jr	Minot, N.D.
+25	Spicer, Cole	Sr	Grand Forks, N.D.
+32	Sykora, Nicholas	Fr	Roseland, N.J.
+24	Szydlowski, Garrett	Sr	Detroit, Mich.
+18	Whitelaw, William	Sr	Rosemount, Minn.
+4	Wisdom, Zaccharya	Sr	Toronto, Ont.
+Goaltenders
+29	Miller, Quentin	So	Montréal, Que.
+35	Moffatt, Gavin	So	Darien, Conn.
+37	Polston, Michael	Fr	Cedarburg, Wis.
+
+# Alaska
+Defensemen
+7	Anderson, Jackson	So	Prior Lake, Minn.
+16	Burrett, Linden	Fr	Surrey, B.C.
+5	Fleet, William	So	Denver, Colo.
+14	Fryer, Seth	Fr	Victoria, B.C.
+20	Gallatin, Grady	So	White Bear Lake, Minn.
+24	Klemm, Lukas	So	Ridgefield, Conn.
+2	Reed, Carson	Jr	Warroad, Minn.
+26	Rickey, Nathan	Jr	New Lenox, Ill.
+25	Rud, Max	Jr	St. Cloud, Minn.
+Forwards
+12	Bartecko, Dominik	Jr	Praha, Czechia
+91	Binkley, Simon	Fr	Fairbanks, Alaska
+8	Borozinskis, Davis	So	Liepaja, Latvia
+29	Courtney, Beau	So	Parker, Colo.
+17	Danylov, Misha	So	Kyiv, Ukraine
+23	Elliott, Sam	Fr	White Rock, B.C.
+27	Howard, Zach	Fr	New Richmond, Wis.
+6	Larson, Jhett	So	Delisle, Sask.
+36	Lehtinen, Joel	Jr	Dallas, Texas
+34	Plandowski, Jack	Fr	Halifax, N.S.
+11	Powers, Kyle	Fr	Ottawa, Ont.
+18	Roersma, Rylen	So	Lethbridge, Alb.
+10	Rogers, Jack	Gr	East Northport, N.Y.
+28	Serpa, Joseph	Sr	Cambridge, Ont.
+9	Spak, Dean	Jr	Calgary, Alb.
+15	Sydor, Dylan	Jr	Kamloops, B.C.
+13	Ushio, Taisetsu	Fr	Hokkaido, JPN
+Goaltenders
+31	Brice, Zak	So	Fairbanks, Alaska
+62	Shea, Tyler	Gr	Stevenson Ranch, Calif.
+32	Vachon, Calvin	So	Redondo Beach, Calif.
+
+# Alaska-Anchorage
+Defensemen
+7	Anderson, Cooper	Fr	Des Moines, Iowa
+10	Esterbrooks, William	Fr	Hermantown, Minn.
+55	Helgeson, Luke	So	Anchorage, Alaska
+26	Hockley, Drew	Jr	Kentville, N.S.
+77	Ravndahl, Rhett	Fr	Birch Hills, Sask.
+12	Steele, JP	Jr	Franklin, Mich.
+4	Tsakumis, Niko	Fr	Vancouver, B.C.
+2	Warrener, Ethan	Jr	Calgary, Alb.
+8	Wilson, Cosmo	Fr	Vernon, B.C.
+Forwards
+21	Anderson, Ben	Sr	Crystal, Minn.
+18	Bianchet, Jalen	Fr	Pickering, Ont.
+17	Bloomer, Paul	Fr	Chicago, Ill.
+27	Boisvert, Samuel	Fr	Mirabel, Que.
+5	Brown, Connor	Fr	Estero, Fla.
+32	Contreras, Dylan	Jr	Yorba Linda, Calif.
+96	Martin-Gaudreault, Matthew	Fr	Montréal, Que.
+43	McNarland, Karter	Sr	Saskatoon, Sask.
+11	Monrean, Bryce	Jr	Anchorage, Alaska
+29	Neutens, Ethan	Fr	Cochrane, Alb.
+13	Parsons, Adam	Fr	Port Moody, B.C.
+23	Reierson, Aaron	So	Moorhead, Minn.
+9	Shtrom, Oren	So	Dollard-des-Ormeaux, Que.
+19	Spencer, Tye	So	Saskatoon, Sask.
+86	Tardif, Charles	Jr	Québec, Que.
+15	Terpstra, Jacob	So	Shelby Township, Mich.
+22	Westin, Aiden	Sr	Anchorage, Alaska
+Goaltenders
+33	Gramme, William	Sr	Stockholm, Sweden
+31	Marks, Bryant	Jr	Wasilla, Alaska
+72	Rocha, Joey	Fr	Nanaimo, B.C.
+
+# Lindenwood
+Defensemen
+6	Bevilacqua, Michael	Sr	Hamburg, N.Y.
+8	Delaney, Jacob	So	Glen Ellyn, Ill.
+3	Elfving, Kim	Fr	Södertälje, Sweden
+18	Elias, Ethan	Jr	Maple Grove, Minn.
+4	Gengle, Connor	So	Grand Rapids, Mich.
+11	Leblanc, Jacob	So	George Town, CYM
+28	Mortensen, Brody	Jr	Humboldt, Sask.
+3	Wong, Jonathan	So	North Vancouver, B.C.
+Forwards
+2	Abraham, Ryan	So	Troy, Mich.
+19	Bell, Kian	Jr	Ottawa, Ont.
+25	Brown, Caden	Fr	Fort St. John, B.C.
+24	Dziver, Noah	Fr	Winnipeg, Man.
+17	Earl, Andrew	Fr	Eden Prairie, Minn.
+10	LaPinta, Chase	Jr	Frisco, Texas
+7	LeBlanc, Andrew	So	George Town, CYM
+26	Loughman, Tyler	Jr	St. Louis, Mo.
+27	McIsaac, Brady	So	Prince George, B.C.
+22	Nash, Ty	Jr	Scottsdale, Ariz.
+13	Raesler, Adam	Jr	Edmonton, Alb.
+16	Rego, Anselmo	So	Brampton, Ont.
+21	Rohrer, Kyle	Fr	Oregon, Wis.
+15	Schumacher, Will	So	Prior Lake, Minn.
+9	Thibodeau, Christopher	Fr	Charleston, S.C.
+5	Winemaster, William	So	Chicago, Ill.
+12	Zielke, Ethan	Sr	Calgary, Alb.
+Goaltenders
+35	Beerman, Liam	So	Marquette, Mich.
+29	Butikis, Cody	Fr	Sewell, N.J.
+31	Knapp, Klayton	So	Sylvania, Ohio
+
+# Long Island
+Defensemen
+22	Benoit, Nate	Sr	Bow, N.H.
+24	Brown, Conner	Jr	Maplewood, Minn.
+53	Classon, August	So	Stockholm, Sweden
+7	Darby, Jack	So	New Hartford, N.Y.
+24	Hause, Luke	So	St. Paul, Minn.
+16	Lemieux, Lucas	So	Edmonton, Alb.
+6	Matheson, Blake	So	Everett, Wash.
+2	Powell, Trent	Jr	Soldotna, Alaska
+28	Valk, Garrett	Sr	North Vancouver, B.C.
+Forwards
+28	Andrew, Dalton	Jr	Brandon, Man.
+10	Armstrong, Heath	Sr	Calgary, Alb.
+0	Benayon, Zachary	Fr	Vaughan, Ont.
+0	Bydal, Luc	Fr	Grand Forks, N.D.
+28	Calafiore, Anthony	Sr	Staten Island, N.Y.
+29	Dyke, Jaden	So	St. John's, Newf.
+0	Funk, Brandon	Fr	Winnipeg, Man.
+17	Jennersjo, Sixten	Jr	Ekerö, Sweden
+27	Kinch, Dylan	So	Salzburg, Austria
+26	Lambert, Isaac	Jr	Victoriaville, Que.
+15	Leighton, Luca	Jr	Old Brookville, N.Y.
+52	Leppanen, Onni	Jr	Helsinki, Finland
+18	Lucarelli, Anthony	Jr	Chatham, Ont.
+11	McMahon, John	So	Oceanside, N.Y.
+19	Muller, Chad	Jr	Kingston, Ont.
+12	Nelson, Brennan	Jr	Edmonton, Alb.
+38	Perdion, JR	Jr	Strongsville, Ohio
+0	Rousseau, Samuel	Fr	St-Eustache, Que.
+Goaltenders
+31	Bickle, Carter	So	Brooklin, Ont.
+0	Callaway, Dane	Fr	Duluth, Minn.
+30	Duris, Daniel	Jr	Martin, Slovakia
+37	Renaud, Lukas	So	Montréal, Que.
+
+# Maryville
+Defensemen
+0	Kozak, Cade	Fr	Isanti, Minn.
+0	McNeill, Sidney	Fr	Summerside, P.E.I.
+10	Ozolins, Gustavs	Jr	Riga, Latvia
+0	Pappas, Landon	Fr	Airdrie, Alb.
+7	Simanovics, Rihards	Sr	Riga, Latvia
+0	Subject, Will	Fr	Wayzata, Minn.
+0	Thomas, Jack	Fr	St. Louis, Mo.
+0	Ursulak, Brett	Fr	Calgary, Alb.
+0	Williams, Nathan	Fr	Racine, Wis.
+0	Winegard, Tanner	Fr	Bright's Grove, Ont.
+Forwards
+0	Bruender, Tanner	Fr	Portland, Ore.
+0	Cardilli, Anthony	Fr	Chicago, Ill.
+0	Cavallin, Adam	Fr	Regensburg, Germany
+0	Dawson, Ridge	Fr	Kelowna, B.C.
+0	Dorion, Antoine	Fr	Orleans, Ont.
+0	Edwards, Sam	Sr	Ottawa, Ont.
+0	Hall, Anthony	Fr	Sherbrooke, Que.
+0	Maxwell, Zachary	Fr	Sherwood Park, Alb.
+0	McLean, Campbell	Sr	Whitecourt, Alb.
+0	Meshcheryakov, Nikita	Fr	Moskva, Russia
+0	Pilgram-Edwards, Blake	Fr	Elmsdale, N.S.
+0	Potvin, Maxim	Fr	Sudbury, Ont.
+0	Rampton, Greye	Fr	Chilliwack, B.C.
+0	Sawka, Hunter	Fr	Cochrane, Alb.
+0	Timm, Adam	Fr	Chetek, Wis.
+0	Wagener, Maxwell	Fr	St. Louis, Mo.
+0	Woolcott, Ethan	Fr	San Diego, Calif.
+Goaltenders
+33	Bruveris, Bruno	Sr	Riga, Latvia
+0	Charrois, Louis-Félix	Fr	Drummondville, Que.
+0	Sawka, Parker	Fr	Cochrane, Alb.
+
+# Stonehill
+Defensemen
+4	Banquier, Charles	Sr	Oakville, Ont.
+55	Campione, Dominick	Sr	Kohler, Wis.
+21	Carlstrom, Devon	Sr	Palm Beach Gardens, Fla.
+11	Davis, Wyatt	Fr	Cobden, Ont.
+6	Gibson, Justin	Jr	Pittsburgh, Pa.
+16	Lepper, Luke	Fr	Brandon, Man.
+2	Mahler, Adam	So	Ancaster, Ont.
+22	Palmer, Jordin	So	Auburn, N.H.
+28	Rafalski, Matthew	So	Waupaca, Wis.
+48	Rep, Ozbej	Fr	Jesenice, Slovenia
+5	Tremblay, Caden	Fr	Port Alberni, B.C.
+Forwards
+12	Aben, Zachary	Jr	Shavertown, Pa.
+13	Chambers, Leo	Jr	Toronto, Ont.
+18	Drury, Owen	Fr	Newport Beach, Calif.
+20	Duncan, Tanner	Fr	Ridgefield, Conn.
+7	Fechner, Hayden	Fr	Edmonton, Alb.
+38	Fitzpatrick, Liam	Fr	Moose Jaw, Sask.
+24	Galante, Anthony	Sr	Morganville, N.J.
+37	Gorton, Jack	Sr	Granite Springs, N.Y.
+10	Grainda, JJ	Sr	Carmel, Ind.
+17	Ivashchenko, Nikita	Fr	Kharkiv, Ukraine
+27	Kebreau, Dimitry	Jr	Silver Spring, Md.
+29	Mackie, Landon	Fr	Victoria, B.C.
+14	Melady, Cole	Jr	Seaforth, Ont.
+19	Murphy, Pat	So	North Kingstown, R.I.
+15	Renfrew, Billy	Jr	Fairbanks, Alaska
+71	Romer, Matthew	Sr	Chicago, Ill.
+Goaltenders
+33	Haislet, Pierson	Fr	Chicago, Ill.
+32	Lipskis, Linards	Jr	Sigulda, Latvia
+1	Vaccari, Mason	Fr	Mississauga, Ont.
