@@ -1,0 +1,15 @@
+# Loader's downloaded API responses — thousands of files, all re-fetchable
+cache/
+
+# Python leftovers
+__pycache__/
+*.pyc
+
+# Anything holding credentials
+.env
+*.env
+secrets.*
+
+# OS clutter
+Thumbs.db
+.DS_Store
