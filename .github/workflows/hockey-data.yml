@@ -1,0 +1,96 @@
+# ============================================================
+# Nightly data loading for the fantasy platform
+# ============================================================
+# Put this file in your repository at:
+#     .github/workflows/hockey-data.yml
+#
+# It needs two repository secrets (Settings -> Secrets and variables ->
+# Actions -> New repository secret):
+#     SUPABASE_URL   https://ntzfmnnrtnzbkhpifoca.supabase.co
+#     SUPABASE_KEY   your service_role key
+#
+# These are stored encrypted and are never printed in the logs.
+#
+# WHAT RUNS WHEN (times are UTC; GitHub only understands UTC)
+#   09:00 UTC / 05:00 ET  results  - every game finished overnight
+#   15:00 UTC / 11:00 ET  refresh  - today's start times, for lineup locking
+#   Mondays 16:00 UTC     schedule - re-reads College Hockey News, mostly to
+#                                    fill in start times that were TBA
+#
+# The results run reaches THREE DAYS BACK on purpose: the NCAA feed sometimes
+# posts a box score late, and a window that only covered yesterday would miss
+# it permanently. Re-loading a day that is already correct changes nothing,
+# because every write is an upsert.
+# ============================================================
+
+name: Hockey data
+
+on:
+  schedule:
+    - cron: "0 9 * * *"     # results
+    - cron: "0 15 * * *"    # midday refresh
+    - cron: "0 16 * * 1"    # Monday schedule re-read
+  workflow_dispatch:         # and a "Run workflow" button, for when you want it now
+    inputs:
+      full_schedule:
+        description: "Also re-import the full season schedule"
+        type: boolean
+        default: false
+
+# Never let two runs overlap - they would fight over the same rows.
+concurrency:
+  group: hockey-data
+  cancel-in-progress: false
+
+jobs:
+  load:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --quiet supabase
+
+      - name: Work out the date window
+        id: window
+        run: |
+          echo "start=$(date -u -d '3 days ago' +%F)" >> "$GITHUB_OUTPUT"
+          echo "end=$(date -u -d '+14 days' +%F)"     >> "$GITHUB_OUTPUT"
+
+      - name: Check the loader before trusting it with the database
+        run: python load_to_supabase.py --selftest
+
+      - name: Load results and upcoming games
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          python load_to_supabase.py \
+            --start "${{ steps.window.outputs.start }}" \
+            --end   "${{ steps.window.outputs.end }}"
+
+      # Mondays, or when you tick the box on a manual run.
+      - name: Refresh the published schedule
+        if: github.event.schedule == '0 16 * * 1' || inputs.full_schedule
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          python import_schedule.py --selftest
+          python import_schedule.py --season 2026-27 --through 2027-03-06
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "### Hockey data run"
+            echo ""
+            echo "- Window: ${{ steps.window.outputs.start }} to ${{ steps.window.outputs.end }}"
+            echo "- Trigger: ${{ github.event_name }} ${{ github.event.schedule }}"
+          } >> "$GITHUB_STEP_SUMMARY"
